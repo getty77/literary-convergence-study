@@ -2,6 +2,8 @@
 
 10文化圏の古典文学テキストから観測される行動骨格とその収束構造
 
+**リポジトリ**: https://github.com/getty77/literary-convergence-study
+
 ---
 
 ## 概要

@@ -4,7 +4,8 @@ date: 2026-04-08
 status: draft_v1
 pipeline_version: v3
 works: 10
-core_observations: 511
+core_observations: 545
+repository: https://github.com/getty77/literary-convergence-study
 ---
 
 # 10古典文学テキストから観測される行動骨格とその収束構造
