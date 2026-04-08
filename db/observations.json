@@ -1,0 +1,4362 @@
+[
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "学習反復OS",
+    "formula": "判断が揺れるとき、学びを反復し身体化することで行動が安定する」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "自己修正優先OS",
+    "formula": "過ちを見たとき、他者非難より先に自己点検と修正が起きる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "役割整合OS",
+    "formula": "人は自分の位置と名に即して振る舞うとき、関係と判断が崩れにくい」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "承認非依存OS",
+    "formula": "他者に知られないときでも、徳と実行を維持する構造を持つ」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "礼媒介実践OS",
+    "formula": "衝動や善意だけでは足りず、礼を通すと行為が持続可能になる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "内省的自己観察OS",
+    "formula": "不安や乱れが生じる前に、日次の自己点検で逸脱を早期補正する構造を持つ」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "情動節度OS",
+    "formula": "情動が起きるとき、礼が過剰反応と鈍麻の両方を抑える調整機構として働く」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "慢性欠乏耐性OS",
+    "formula": "困窮・不遇・飢えのとき、快不快ではなく徳保持を優先して崩壊を遅らせる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "喪失統合OS",
+    "formula": "死や喪のとき、悲哀を十分に通過させることが秩序回復の回路になる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "階層秩序再生産OS",
+    "formula": "父子・君臣・長幼の役割が守られるとき、社会秩序が再生産される」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "徳的統治OS",
+    "formula": "統治者が徳と礼で先導するとき、強制よりも恥と信が秩序形成を担う」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "儀礼配分OS",
+    "formula": "礼の越権が起きるとき、政治秩序の破損として感知される」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "信用基盤OS",
+    "formula": "食・兵・刑よりも信が失われると、共同体運営の基礎が崩れる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "人材選抜OS",
+    "formula": "集団が安定するとき、直を挙げ枉を退ける選抜原理が働いている」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "欲動節制OS",
+    "formula": "欲望が生じるとき、礼と義が即時充足を遅延させ、昇華へ向かわせる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "自己責任化防衛OS",
+    "formula": "外部不認知や攻撃にさらされるとき、怨恨より自己修養へ戻る防衛が起きる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "理想対象内在化OS",
+    "formula": "聖王・古・師の像を内在化し、それを基準に自己を不断に測る構造を持つ」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "反復修正OS",
+    "formula": "欠陥や過誤は否認より反復的修正へ回収され、自己形成の回路に戻される」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "断章蓄積OS",
+    "formula": "短い発話・問答・逸話を積み重ねることで、OS骨格が反復的に立ち上がる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "再定義編集OS",
+    "formula": "同じ語が繰り返し問われるたび、文脈別の再定義によって意味場が厚くなる」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "師弟対話OS",
+    "formula": "抽象命題は弟子の問いと応答差を通じて分節され、単一教義化を避ける」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "事例校正OS",
+    "formula": "人物評・政治評・礼評を小さな事例で配置し、一般原理を後ろから補強する」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "天命準拠OS",
+    "formula": "人事で尽くした後の可否は、命・天に委ねられる構造を持つ」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "礼的現前OS",
+    "formula": "祭祀のとき、死者や神霊は『在るものとして』扱われ、秩序は現前化される」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "罪責上昇OS",
+    "formula": "秩序破綻や民の過失は、最終的に上位者の責として垂直的に回収される」"
+  },
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "超越的境界OS",
+    "formula": "非その鬼を祭る、礼を越えて祀るなどの越境が起きると、諂いと秩序汚染が発生する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "正道喪失時は、自己単独の突破よりも権威ある先達への接続が起きる",
+    "formula": "進路を見失い自力回復が失敗すると、主体は権威ある先達をガイドとして採用する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "このOSは、恐怖の只中でも環境の微弱な回復サインを判断材料として保持する",
+    "formula": "高恐怖状態でも、光・時刻・季節・地形のような回復兆候が見えると行動再開が起きる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "このOSは、障害を単一原因でなく複数の反復的妨害として読む",
+    "formula": "上昇の試みが止まるとき、妨害は連続する複数の形態として配列され、退却が反復する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "不能な環境では中心突破を避け、境界の固い通路に足場を固定して進む",
+    "formula": "全面が危険なとき、OSは安全な縁を使って前進し、地形理解が行動可能性を生む」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "強い異常対象に遭遇すると、主体は独断せず上位案内者への質問で認識を更新する",
+    "formula": "理解不能な存在が現れたとき、OSは案内者への問いを通じて判断を再構成する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "反抗の持続は自己保全でなく自己拘束として働く",
+    "formula": "屈服しない自己像を死後まで維持すると、OSは苦痛の解除より反抗の維持を優先する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "信頼できる退出不能空間では、主体は名誉損失の計算を外して隠していた履歴を開示する",
+    "formula": "聞き手が地上へ戻れないと確信したとき、OSは告白を開く」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "狡知で成功してきた主体は、危機でも力より策を優先し、晩年の自己修正は上位権威の例外許可に弱い",
+    "formula": "退路を閉じて悔悛へ移った後でも、絶対権威が免責を先渡しすると、OSは旧来の判断様式へ再接続する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "行動は抽象的希望より具体的導線で再起動する",
+    "formula": "希望だけでは進めず、経路・段階・案内者が与えられると移動が再開する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "このOSは、迷走をまず身心の総合的失調として記録する",
+    "formula": "正道喪失のとき、恐怖・息切れ・疲労・震えが一体化して出現する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "回復は一気に完了せず、視覚刺激と短い休息で部分的に起こる。脅威の再出現で容易に再崩壊する",
+    "formula": "極度の負荷のあと、光景の変化とわずかな休止で症状が一時的に鎮まるが、新しい刺激が入ると恐怖反応が再燃する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "慢性的負荷の処理には、信頼できる他者による伴走が必要になる",
+    "formula": "自己調整で抜けられない状態では、外部ガイドが治療的支持として機能し、苦痛は通過計画が与えられると耐えうる負荷に変わる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "苦痛刺激への反応は姿勢と運動の差として分化する",
+    "formula": "同一の危険にさらされても、OSは横たわる・走る・手で払うなど異なる身体応答型を示す」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "慢性的反抗は疼痛知覚の修復ではなく硬直化を伴う",
+    "formula": "怒りや誇大性が持続すると、OSは苦痛軽減より持続的緊張を選び、回復回路を閉じる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "地獄の水系は累積した喪失反応の体液化として描かれる",
+    "formula": "世界の劣化が涙として漏出すると、OSはその慢性的な喪失産物を循環系として保持する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "回復志向は外的免責の誤使用で崩れる",
+    "formula": "悔悛と縮退が始まっていても、責任を免れるという強い外的シグナルが入ると、OSの回復機構は旧症状へ逆戻りする」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "死後判定では行為より前に、悔悛の成立条件が審査される",
+    "formula": "回復や赦しが主張されても、OSは意図と反省が両立しているかを条件審査し、矛盾があれば回復を無効化する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "このOSは、個人の旅をつねに都市と制度の履歴へ再接続する",
+    "formula": "個人の危機が語られるとき、同時に都市史・党派・階級編成が展開される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "権力は帝国・教会・都市・党派・ギルドの多層競合として配列される",
+    "formula": "ひとつの正統性では統治できず、複数の権威が相互利用されるOS構造を持つ」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "危機では正統な案内権が個人から権威ある先達へ移り、秩序は階層的アクセス制で組まれている",
+    "formula": "主体が自力で上昇できないとき、移動の正当性はガイドの資格によって再編され、全ての場所に同一資格で入れるのではなく案内者の資格が層ごとに切り替わる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "排除的障害は通路管理者として機能し、反逆者は排除後も秩序の内部で可視化され続ける",
+    "formula": "獣や番人は単なる脅威でなく特定の者を先へ通さない境界装置として働き、超越への反抗は見せしめ化された配置として保持される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "文化資本は制度正当化の装置として働く",
+    "formula": "伝記・注釈・肖像真贋の管理が、作品と人物の公的権威を支える」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "世界史の劣化は地獄インフラの供給源として制度化される",
+    "formula": "時代の崩壊が涙となって下層を流れることで、罰の社会装置が持続供給される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "権威制度は聖職と統治を重ねることで逸脱を拡張し、赦免の前渡しは規範秩序を利用した逸脱促進装置になる",
+    "formula": "宗教権威が政治戦争を処理するとき、先に免責を与えられると、OSは規範破りを違反でなく手続き化された行為として実行する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "最終的な所属判定は地位や役職でなく規則整合性で決まる",
+    "formula": "高位聖職者や修道士であっても、OSは意図と手続きの矛盾があれば制度的保護から排除する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "このOSは、喪失と不安を外部景観へ投影して処理する",
+    "formula": "内的混乱が生じると、暗い森・獣・荒野として外在化される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "このOSは、理想対象への接続を媒介者経由でしか維持できない",
+    "formula": "直接に至福や救済へ向かえないとき、まず父祖的案内者が中継対象となる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "防衛は反復的だが完全ではなく、脅威対象が姿を変えて戻る",
+    "formula": "欲動の上昇が立ち上がるたび、異なる相貌の対象が出現して退行を強い、ひとつの恐怖が和らぐと別の恐怖表象が続けて出現する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "自己像への執着は苦痛を解除不能にする",
+    "formula": "『生前どおりの自分』を維持し続けると、OSは状況修正より自己像の硬直を選ぶ」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "神への憎悪は外敵への攻撃でなく自己燃焼として反復する",
+    "formula": "超越対象を拒絶すると、攻撃性は相手を傷つけるより自己苦痛の持続へ折り返される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "狡知は主体の欲動を支える同一化核として残存する",
+    "formula": "生の後半で役割を変えても、OSは『狐の知』への同一化を保持し、決定局面でそこへ回帰する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "告白は安全条件が整ったときにだけ流出する",
+    "formula": "羞恥や名誉毀損の不安が消えると、OSは抑えていた内容を一気に言語化する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "免罪の約束は超自我の抜け穴として機能し、反省と悪意図は同居できず分裂したまま破綻する",
+    "formula": "禁止を破る前に赦しが与えられると、OSは罪責を回避したまま欲動充足へ進めると誤認し、悔悛と欺計意図を同時保持しようとすると内部矛盾を統合できず裁きの場で破綻する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "このOSは、多重フレームを積んでから本篇へ入る自己記述形式を持つ",
+    "formula": "翻訳者序文・目次・歴史論・肖像論を経てから第一歌が開始され、作品は旅を語る前に旅を読む資格と地図を先に配布する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "語りは、解説的散文から象徴的詩へ、そして対話劇・地獄インフラ論へと段階的にモードを切り替える",
+    "formula": "散文による外部説明が極まったあと一人称詩行で体験が起動し、以後は問い→導師の説明→行路更新という形式が反復する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "このOSは、注釈を本文の外部でなく内部構造の一部として持つ",
+    "formula": "脚注と補注が語の意味・年代・象徴を固定し、読解経路を制御する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "反復する阻止が物語推進力になる",
+    "formula": "前進が妨げられるたびに、新しい記述単位と象徴密度が立ち上がる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "テキストは自己の正当化を先達の引用関係で構築する",
+    "formula": "語り手は自らの旅を、敬愛する詩人との対話と継承宣言によって記述可能にする」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "語りは局所景観から宇宙地図へズームアウトし、空間スケールの拡大とともに語りの権威も増す",
+    "formula": "赤い小川という近景からクレタの老人像へ跳躍し、局所の現象を全体構造へ接続する」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "声はまずノイズとして現れ、後から意味へ変換される",
+    "formula": "苦痛の音響が先に提示され、その後に可読な言葉へ整流されることで、発話そのものが罰の形式になる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "チャンク末尾は次区画への空間工学的比喩で起動し、個人史を制度地形へ再接続する",
+    "formula": "一人の長い告白が終わると、テキストは即座に移動描写へ戻り、個体物語を地獄の区画構造へ戻す」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "このOSは、迷いを単なる失策でなく超越秩序からの逸脱として記述する",
+    "formula": "正しい道を失うと、それは空間迷子でなく霊的秩序からの離脱として現れ、闇・恐怖・沈黙の領域に落ちる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "救済への到達は直接的でなく、段階的媒介と階層移動を必要とする",
+    "formula": "救済を望むとき、森→丘→地獄・煉獄→より高次の導きという順序が課され、複数の案内者と領域ごとの資格審査を通らねばならない」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "超越秩序は宇宙的統治として表象されるが、政治語彙で描かれる",
+    "formula": "神的秩序は皇帝・都市・法・門という政治語彙で描かれ、入域資格を厳格に配分する政治空間として現れる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "罰の空間にも秩序的な保護帯が存在し、神への反抗は内的火として永続する",
+    "formula": "全面的に呪われた地でも定められた縁と水流の上では火が消え、超越を罵倒し続けると反抗心自体が罰の燃料として保持される」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "地獄の河川は堕落した時代の涙によって供給され、忘却による浄化はこの層位の外部に留保される",
+    "formula": "世界の諸時代が裂けて泣くと涙が冥府の河として流れ秩序を維持するが、罪の洗浄に必要なレテは地獄内にはなく、浄化可能性は別の領域へ先送りされる」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "聖なる権威の濫用は世俗的欺計をより重くし、真の赦しは事前免責では成立しない",
+    "formula": "超越秩序の鍵を持つ者が免罪を取引化すると罪は増幅され、まだ悪意図を保持しているとき赦しを宣言しても超越秩序の側はそれを承認しない」"
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "悔悛は行為停止だけでなく意志変化を要求し、死後判定では聖者より論理に合致した裁定者が優越する",
+    "formula": "修道服をまとい生活を変えても意図の向きが変わらなければ浄化は成立せず、魂の争奪では情緒的憐れみではなく矛盾なき審級論理によって所属が決まる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "微細な露見リスクを全体崩壊の起点として読むOS",
+    "formula": "大きな目的の前でも、些細な違和感や目印が露見の起点になると読む」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "行動前に反復的リハーサルを行い、偶然が決断を押し切るOS",
+    "formula": "実行不能感が強いとき、主体は独力で決め切れず、試行と偶然の一致で閾値を越える」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "対人接触を負債化として読む回避OS",
+    "formula": "他者との接触が説明・弁明・借りの発生を伴うとき、主体は隠密移動を優先する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "高負荷下で全体判断が壊れ、直近の局所手順だけが残るOS",
+    "formula": "極度の露見危機に入ると、主体は戦略全体を失い、洗う・切る・隠す・戻すといった近接手順へ縮退する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "家族犠牲を受け取ると自己保存より介入衝動が優先されるOS",
+    "formula": "自分が誰かの犠牲で支えられていると知ると、主体は現状維持を不可能とみなす」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "行為後に目的が空洞化するOS",
+    "formula": "実行が終わると獲得物の意味は失われ、主体は『なぜやったか』を自分で保持できなくなる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "回避不能点への反復回帰OS",
+    "formula": "主体は危機の震源から離れ続けるより、警察・証拠・現場・新聞の周縁へ繰り返し戻って管理しようとする」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "他者接触を負担と救命の両方として扱うOS",
+    "formula": "他者は露見源として回避される一方、極限時には食事・金銭・搬送・会話の足場として利用される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "出口を決めても臨界点では蛇行し、行為決定を先延ばしするOS",
+    "formula": "最短経路より遅延と回帰が選ばれ、決意の直後に逸脱経路が開く」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-10",
+    "title": "役割切替による生存OS",
+    "formula": "追及や羞恥に晒されると、病人・家族員・理論家・依頼人の役割を高速に切り替えて凌ぐ」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-11",
+    "title": "内的規則への過剰適合OS",
+    "formula": "行動の正否は外部規範より、自分の内部で作った例外規則に照らして判断される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-12",
+    "title": "例外資格で自己を運用するOS",
+    "formula": "追い詰められると、主体は自分を『法を越えてよい者か否か』で再判定する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-13",
+    "title": "対話を即座に罠解析へ変換するOS",
+    "formula": "曖昧な問いを受けると、主体は内容理解より先に、相手の罠・誘導・証拠配置を解析する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-14",
+    "title": "崩壊寸前でも局所最適で凌ぐOS",
+    "formula": "全体では動揺していても、その場の一問一答では最も自然に見える返答を高速選択して生存する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-15",
+    "title": "自己制御の喪失が進むほど形式要求が強まるOS",
+    "formula": "内的には激昂していても、主体は『逮捕するなら正式にやれ』という手続き要求で足場を確保しようとする」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-16",
+    "title": "危機が極まると逃走より決着へ進むOS",
+    "formula": "包囲感が飽和すると、このOSは隠れ続けるより対決相手のもとへ自分から向かう」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-17",
+    "title": "単独では決断できず、儀礼を挟むと実行に移れるOS",
+    "formula": "最終決断が直線化できないとき、このOSは他者の指示した身体儀礼を経由して行動を固定する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-18",
+    "title": "他者の情動を燃料にして閾値を越えるOS",
+    "formula": "自力で前進できないとき、主体は近しい他者の涙・追随・恐怖を足場に次の行動へ進む」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-19",
+    "title": "失敗を倫理ではなく能力不全として総括するOS",
+    "formula": "破局のあとも、このOSは『何をしたか』より『成功できなかった』ことを自己評価の中心に置く」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-20",
+    "title": "長期変化は理念ではなく関係の習慣化から始まるOS",
+    "formula": "世界観の更新が止まっていても、反復的な訪問と伴走が続くと、このOSは遅れて再編に入る」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "栄養不足・暑熱・睡眠障害が重なると思考が混濁し判断が断続化するOS",
+    "formula": "飢餓・暑熱・睡眠障害が重なると、思考は混濁し判断は断続化する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "情動負荷が身体症状として先行出現するOS",
+    "formula": "重大な決断や露見危機の前後で、震え・悪寒・口渇・めまい・脱力が先に立つ」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "極限行為後に発熱・悪寒・振戦が全身化するOS",
+    "formula": "強烈な恐怖と睡眠欠乏の後、主体は発熱、悪寒、振戦、脱力として崩れる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "極限負荷下で解離様の自動運転が生じるOS",
+    "formula": "不可逆局面に入ると、主体は震え・忘却・眩暈・歩行継続が同時に出る自動操縦状態に入る」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "感覚過敏と被害予期が継続するOS",
+    "formula": "身体は常時アラーム状態で、ベル・足音・呼び声・血痕への過剰反応が発見予期の担い手になる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "一時的回復を真の回復と誤認しやすいOS",
+    "formula": "外的刺激で一時覚醒し、飲酒・休息・解放感で一時的に明晰化しても、基底の負荷は持続する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "微小反復が自己調整の残存機構になるOS",
+    "formula": "洗浄、確認、切除、包み直し、数え直しの反復は、崩壊した統合の代わりに残る暫定的な調整機構である」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "心身破綻と局所的知的統御が共存するOS",
+    "formula": "強い疲弊・眩暈・失神前状態があっても、局所では高度な会話統御が残る」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-9",
+    "title": "高度思考と急性身体反応が併存するOS",
+    "formula": "推論能力が保たれていても、身体は同時に発汗・震え・虚脱・失神前状態へ落ち込む」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-10",
+    "title": "自己観察が回復ではなく自己攻撃に使われるOS",
+    "formula": "主体は自分の弱さと症状を鋭く観察できるが、その観察を休息ではなく自己攻撃へ接続する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-11",
+    "title": "他者の安定接触が一時的な鎮静点になるOS",
+    "formula": "症状が極大化した後でも、静かな同席・朗読・儀礼的対話が短時間の保持機能を果たす」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-12",
+    "title": "危機の急性期が過ぎると鈍麻優位の慢性適応へ移るOS",
+    "formula": "急性興奮ののち、このOSは深い感情表出ではなく無関心・省反応・閉鎖化で持続する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-13",
+    "title": "負荷は本人より家族系から先に破綻を起こすOS",
+    "formula": "当事者の刑罰進行と並行して、周辺家族に発熱・せん妄・妄想的補綴・死が生じる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-14",
+    "title": "回復は身体疾患と対人接触を介して始まるOS",
+    "formula": "長期の閉塞は発病を経由して切れ目を作り、その後の回復は薬理でなく関係接触により始動する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "債務が人格接触を支配する都市下層OS",
+    "formula": "債務関係に入ると、人は対等な主体ではなく追跡・監視・回収の対象になる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "女性の身体と評判が家族生存の交換媒体になるOS",
+    "formula": "家計破綻時、娘の婚姻と売春が家族再生産の装置として動員される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "貧困は私的失敗ではなく制度的排除の連鎖として作動するOS",
+    "formula": "職・住・信用・評判のどれかが崩れると、他の領域も連鎖的に崩れる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "下層都市では匿名性が逸脱の隠れ蓑と機会を同時に与えるOS",
+    "formula": "雑踏と雑居は羞恥を希釈し、同時に犯罪機会を供給する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "都市の雑居構造が犯罪と逃走を同時に可能にするOS",
+    "formula": "階段、空き部屋、群衆、門番、作業人夫が密集する都市では、逸脱は可視化されつつ同時に紛れ込める」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "下層制度が人を常時記録し照合するOS",
+    "formula": "借金、家主、警察、酒場、質草、送金、住所台帳が結びつくと、主体は生活全体を追跡される存在になる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "言説権力が捜査の方向を決めるOS",
+    "formula": "証拠は単独で働かず、警察の routineと『らしさ』の解釈が容疑者を作る」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "捜査権力が心理演出によって法的手続きの不足を補うOS",
+    "formula": "制度は形式を掲げつつ、実際には心理圧迫・情報小出し・待機要員の配置で対象を追い詰める」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-9",
+    "title": "被疑者が不確定身分のまま管理されるOS",
+    "formula": "逮捕も無罪放免も宣言されない中間状態が、制度にとって有効な統治技法として使われる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-10",
+    "title": "印刷物が私的観念を公的審問材料に変換するOS",
+    "formula": "私的観念であっても、記事として印刷された瞬間に、公的審問と人物分類の材料になる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-11",
+    "title": "周縁者が制度の代替告白・代替犠牲へ押し出されるOS",
+    "formula": "社会的に弱い者ほど、共同体の不安や捜査の圧力を引き受け、代替犯・代替犠牲へ押し出されやすい」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-12",
+    "title": "逸脱が群衆儀礼と制度手続の二段階で公的事実化されるOS",
+    "formula": "この社会では、罪はまず市場の視線で見世物化され、次に警察文書で事実化される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-13",
+    "title": "制度が犯罪を貧困・異常・情状酌量の語彙に翻訳して処理するOS",
+    "formula": "司法は主体の理論ではなく、裁判可能なカテゴリーへ事件を畳み込む」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-14",
+    "title": "女性親族が家族維持と危機吸収の担い手として配置されるOS",
+    "formula": "母は祈りと受容、妹は交渉と護衛、ソーニャは伴走と聴取を引き受け、男性主体の破綻を吸収する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-15",
+    "title": "貧困共同体では死後処理が私財と私的裁量で運営されるOS",
+    "formula": "制度が自動で救済しないため、葬儀・孤児保護・売春からの離脱は私人の資金移転で処理される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-16",
+    "title": "流刑地では階級的孤立が共同体摩擦を生むOS",
+    "formula": "知識階層の自己像を保持したまま懲役共同体に入ると、主体は同房者から異種として排斥される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "嫌悪と実行衝動が同居する分裂的OS",
+    "formula": "主体は対象を憎悪しつつ、その対象に繰り返し接近する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "思考の隔離によって禁忌行為を保持するOS",
+    "formula": "耐え難い内容は『夢』『遊び』『実験』として仮置きされ、現実判断から一時切り離される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "攻撃可能対象と無垢対象の分裂が第二の犠牲で破綻するOS",
+    "formula": "攻撃可能な対象と守るべき対象を分ける構えは、Lizaveta殺害によって崩れ、以後主体は自己嫌悪に侵食される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "罪責は行為前から存在し、行為後に知覚過敏へ変換されるOS",
+    "formula": "禁忌を越える前から嫌悪は準備されており、越境後は痕跡探索として反復する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "反復強迫として現場と捜査へ再接近するOS",
+    "formula": "主体は破局地点から逃げ切るのではなく、警察・証拠・新聞・現場・取調べの周縁へ繰り返し戻る」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "自白衝動を挑発遊戯として演じるOS",
+    "formula": "耐えがたい罪責は直接告白にならず、ほのめかし・挑発・半告白・試し行為として現れる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "死の欲動が自己消滅より反復回帰として現れるOS",
+    "formula": "終わらせたい衝動は直線的自殺ではなく、犯行場面の再演へと曲がる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "嫌悪対象への接近に奇妙な満足が増す享楽回路OS",
+    "formula": "最も恐ろしい記憶刺激に触れるほど、震えとともに奇妙な満足が増す心理構造を持つ」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-9",
+    "title": "例外者ファンタジーによる防衛OS",
+    "formula": "罪責と脆弱さが迫ると、主体は『越境してよい者』の理論を用いて自己を支える」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-10",
+    "title": "誇大自己と自己卑下が往復するOS",
+    "formula": "自分を例外者として持ち上げる回路と、自分を『虱』として踏み潰す回路が急速に往復する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-11",
+    "title": "罪責が外在化された声として戻るOS",
+    "formula": "抑え込まれた罪責は、他者の一語・視線・来訪として外から帰ってくる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-12",
+    "title": "外的審問が内的超自我を直接起動するOS",
+    "formula": "他者から曖昧に問われると、主体内部の裁きが先に作動し、相手の言葉以上の罪責反応を起こす」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-13",
+    "title": "投影によって加害性を相手へ移すOS",
+    "formula": "自分が抱える暴力性と策略性は、まず『相手が自分を狂わせようとしている』という形で外部へ投影される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-14",
+    "title": "防衛が崩れると幼児的な全か無か要求に戻るOS",
+    "formula": "圧力が閾値を超えると、主体は複雑な駆け引きより『疑っているのかいないのか』という二項確認へ退行する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-15",
+    "title": "罪の場に代理告白者が出現するOS",
+    "formula": "中心主体が告白できないとき、周辺人物が膝をついて罪を引き受ける形で、抑圧された内容が場に現れる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-16",
+    "title": "全能感の崩壊が『犯罪』ではなく『不適格』として経験されるOS",
+    "formula": "このOSでは、越境の核心は道徳違反より『自分は選ばれた者ではなかった』というナルシシズム損傷である」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-17",
+    "title": "受容的女性対象が自壊衝動の緩衝材になるOS",
+    "formula": "嫌悪せず抱える女性対象に接触すると、主体は一時的に分裂と暴力性を緩める」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-18",
+    "title": "スヴィドリガイロフが欲動の外部化として機能するOS",
+    "formula": "抑えきれない享楽・支配・死への傾きは、別人格化された他者において先鋭化して現れる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-19",
+    "title": "儀礼的屈服への移行は欲動疲弊から起きるOS",
+    "formula": "跪きと自首は信念の改宗というより、長い葛藤で欲動が磨耗した結果として生じる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-20",
+    "title": "良い対象の追随が自壊反復を寸断するOS",
+    "formula": "主体が崩落しかける局面で、見捨てない対象が身体的に追随すると死へ向かう反復が切り替わる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-21",
+    "title": "疫病夢が理論体系の終末像を先取りするOS",
+    "formula": "意識では理論を保持していても、夢の中では普遍化した自己理論が世界破壊の疫病として表象される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "叙述が主体内部に近接しつつ微妙に距離を残すOS",
+    "formula": "三人称叙述は主体の思考に密着するが、時折外部から補助線を引いて読者の判断を保留させる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "細部の反復で破局を組み立てる編集OS",
+    "formula": "帽子、鐘、鍵、階段、血痕、ベル、耳飾り、橋のような細部が、事件を進めるだけでなく記憶の再起動装置として反復する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "章構成が内面圧を段階的に外的事件へ圧縮するOS",
+    "formula": "回避、告白、家族手紙、夢、偶然情報、実行の順に、内面圧を外的事件へ圧縮する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "挿話が主線を増幅する編集OS",
+    "formula": "マルメラードフ家、母の手紙、馬の夢がいずれも犠牲・屈辱・越境を変奏し、本筋犯罪はその圧縮点として読める」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "都市空間の叙述が心理の延長になるOS",
+    "formula": "暑熱、悪臭、雑踏、屋根裏、酒場、階段、狭室の描写が背景ではなく内面の形式化として機能する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "物語が『逃走譚』ではなく『回帰譚』として編集されるOS",
+    "formula": "物語は遠ざかる線ではなく、警察・新聞・現場・同じ橋への回帰で緊張を増幅する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "対話が取調べ・挑発・誤読の三層で組まれるOS",
+    "formula": "会話は情報交換ではなく、相互の読み違いと試し行為によって進行する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "行為より閾値を記録する語りOS",
+    "formula": "このテキストは出来事そのものより、決断前後の逡巡・停止・転回を密に記述する形式を持つ」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-9",
+    "title": "閾値空間の反復で緊張を編成するOS",
+    "formula": "ドア、階段、廊下、門、開いた部屋が繰り返され、真偽が定まらない閾値空間として機能する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-10",
+    "title": "笑いが恐怖を増幅する編集原理OS",
+    "formula": "軽口、含み笑い、道化的調子は緩和ではなく、追及の不気味さを増幅する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-11",
+    "title": "告白が主人公からずれて出現する編集OS",
+    "formula": "本来の中心主体の代わりに、ニコライや匿名来訪者の口から『罪』が先に語られる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-12",
+    "title": "副人物が主人公の内面を分散投影する鏡像装置OS",
+    "formula": "Razumihinは生活力、Zametovは読者的疑念、Luzhinは功利言説、Nikolayは代替容疑者、スヴィドリガイロフは欲動の先行上演として置かれる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-13",
+    "title": "独白・夢・対話が同一平面で接続されるOS",
+    "formula": "外的会話と内的独白と夢の再演が強く接続され、主体の内外境界を不安定にする」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-14",
+    "title": "自首が反復遅延で成立する形式OS",
+    "formula": "訪問、離脱、群衆儀礼、警察署退出、再入室という遅延を重ねて告白を成立させる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-15",
+    "title": "エピローグで語りのレジスタが劇から記録へ切り替わるOS",
+    "formula": "自白の直後、語りは場面描写中心から裁判記録・書簡要約・経過報告へと切り替わる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-16",
+    "title": "夢を用いて理論から物語へ反証を返す形式OS",
+    "formula": "論争で解かず、疫病夢によって主人公の思想を世界規模の寓話へ展開し、その破綻を示す」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-17",
+    "title": "終結を完了でなく次の物語の入口として処理する形式OS",
+    "formula": "愛の受容で閉じつつ、再生はまだ始まりにすぎないと宣言して現行物語を終える」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "苦難を罰と贖いの両義性で保持するOS",
+    "formula": "苦しみは単なる不運ではなく、罰であり浄化でもある可能性として保持される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "越えてはならない境界を侵すと秩序汚染が全身化するOS",
+    "formula": "禁忌越境は血・汚れ・震え・隠蔽として身体と空間に広がる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "受苦者が救済の媒介になるOS",
+    "formula": "最も汚れた位置に落ちた者が、かえって赦しの回路を担う」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "罰は外部宣告より先に内面で始まるOS",
+    "formula": "超越的秩序の違反後、主体は逮捕以前に、発熱・恐怖・幻聴・自己隔絶として罰の先行形を受ける」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "禁忌侵犯後の浄化不能OS",
+    "formula": "禁忌を破った後、主体は告白にも死にも直進できず、汚染源の周囲を周回する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "卑下された者が召喚者となるOS",
+    "formula": "秩序の周縁に置かれた者が、弔い・憐れみ・証言の回路を通じて主体を再び呼び戻す」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "超越応答は抽象理論と具体的苦難の衝突として出るOS",
+    "formula": "『例外者』の高い理屈は、死者・貧者・家族の具体的苦難に触れるたびに不安定化する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "自己立法と超越法が衝突するOS",
+    "formula": "主体が自分で越境資格を立法しようとするとき、神・復活・罪の語が外から割り込み、その法を不安定化する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-9",
+    "title": "罪は法廷前に宗教語で先行告白されるOS",
+    "formula": "法的確定に先立って『罪』『悔い』『悪い考え』という宗教的言語で秩序回復が始まる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-10",
+    "title": "汚染後の主体が復活物語を要求するOS",
+    "formula": "禁忌侵犯後、このOSは死からの復帰の物語を必要とし、ラザロの場面を自己照射として呼び出す」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-11",
+    "title": "禁忌侵犯の場に代理の贖罪者が現れうるOS",
+    "formula": "真の越境者がなお沈黙するとき、別の者が自分を犠牲者として差し出し、秩序回復を先行させる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-12",
+    "title": "罪の告白がまず身体儀礼として現れるOS",
+    "formula": "このOSでは、言葉による告白の前に、十字を受け、地に伏し、土に口づけする身体儀礼が先行する」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-13",
+    "title": "俗空間がそのまま悔悛の場へ反転するOS",
+    "formula": "市場・警察署・病院・流刑地の河岸といった俗空間が、秩序回復の通路として聖化される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-14",
+    "title": "苦難の受容が救済と秩序回復の媒介になるOS",
+    "formula": "ニコライ、ポルフィーリ、ソーニャの線が収束し、苦難の受容が救済と秩序回復の共通媒介として語られる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-15",
+    "title": "救済は内的確信ではなく伴走関係として到来するOS",
+    "formula": "主体がまだ信じ切れなくても、ソーニャが最後まで付いて行くこと自体が救済の回路になる」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-16",
+    "title": "復活は即時完成でなく長期受難の始まりとして与えられるOS",
+    "formula": "このOSでは、再生は自白で完了せず、七年の待機と苦難を伴う漸進的再生として示される」"
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-17",
+    "title": "共同体は神学的欠如を感知して排斥するOS",
+    "formula": "形式的に儀礼へ参加しても、超越への不信が残ると共同体は主体を『不信者』として攻撃する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "安全確認まで自己開示を段階化するOS",
+    "formula": "他者の保護意志と忠誠がまだ確定していないとき、主体は必要最小限だけ語り、歓待・護送・忠誠確認が整ってから深部の身元情報を出す」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "苦境では感情より帰還目標を判断基準に保持するOS",
+    "formula": "極度の喪失と誘惑に晒されるとき、主体は不死や再定住よりも『家へ帰る』目標を優先して判断を下す」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "侮辱には実績提示で応答するOS",
+    "formula": "能力を疑われたとき、主体は長い弁解よりも一回の圧倒的実演で序列を組み替える」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "客・下位者の立場では境界を守って勝ちすぎないOS",
+    "formula": "実力誇示が必要でも、相手がホスト家族または連携が必要な相手であるとき、主体は競争の線引きを入れて関係破壊を避ける」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "有利な他者を見抜くと協調モードへ移るOS",
+    "formula": "場内に味方や理解者が現れるとき、主体は攻撃姿勢を弱め、承認と感謝を返して資源化する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "復讐前に観測・忠誠確認を優先するOS",
+    "formula": "敵が多数で不確実性が高いとき、主体は即時反撃より試験・聞き取り・忠誠確認を先に行い、侮辱や暴力は耐えて記憶し後の正当化資源に変換する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "帰還は局所同盟の形成で成立するOS",
+    "formula": "秩序回復が必要なとき、家の周辺に残存する忠実な下位成員を選別して戦力化し、単独行為ではなく小規模連合として実行する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "勝負は技能より事前配置で決めるOS",
+    "formula": "数的不利の局面では、武器の独占・扉の封鎖・動線管理・合図同期を先に整え、そのうえで実力行使を発動する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "感情噴出は任務完了まで制御するOS",
+    "formula": "再会や悲嘆が生じても、敵に察知されうる段階では泣くことを止め、作戦完了後にのみ情動が許可される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-10",
+    "title": "正統性は私的記憶の照合で回復するOS",
+    "formula": "外見が変化していても、共有物の製作履歴や身体の古傷のような私的記憶が一致すると、本人性が確定する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-11",
+    "title": "困難は分割して個別に管理するOS",
+    "formula": "作品・任務・状況全体が扱いにくいとき、主体は構成要素へ切り分け、それぞれを個別に定式化して処理する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "EK",
+    "obs_id": "C-12",
+    "title": "理解は視覚化・外部化で安定化するOS",
+    "formula": "読者や協力者が混乱しやすいとき、主体は平面図・挿絵・段取りの言語化を導入して認知負荷を分散させる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "極限負荷のあとに深睡眠で機能を回復するOS",
+    "formula": "海難・漂流・長期緊張で心身が限界に達するとき、主体は長い睡眠に落ち込み、そこから再び行動可能域へ戻る」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "回復は水・衣服・油・食事・寝床の連鎖で起きるOS",
+    "formula": "保護環境に入るとき、主体の回復は歓待そのものではなく、洗浄・保温・栄養・休息の順次処理として進む」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "外見機能の回復が社会復帰の前提になるOS",
+    "formula": "衰弱した身体が共同体に再入場するとき、洗身と着替えによって『見られる身体』が再構成される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "歌・物語が抑圧された悲嘆を身体反応として再起動するOS",
+    "formula": "戦争記憶や喪失記憶に接触するとき、主体は説明より先に涙・ため息・顔の遮蔽として反応する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "長期喪失に対する慢性悲嘆OSが持続するOS",
+    "formula": "帰還不明の喪失が長期化すると、睡眠障害・反芻・涙・身体衰耗が複数人物にまたがって持続する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "高負荷下では情動を内部保留して行動遂行を優先するOS",
+    "formula": "任務が未完のとき、主体は涙・怒り・痛みを身体内に保持し、完了まで外部表出を抑える」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "身体記憶が認知より先に同一性を支持するOS",
+    "formula": "声や外見が偽装されても、古傷・身体の構造・触知可能な痕跡が本人確認の決定打になる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "反復する日課が崩壊環境での安定を維持するOS",
+    "formula": "食事準備・火の維持・寝床の整備・洗足の反復が、崩れた家の最低限の機能を支える」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-9",
+    "title": "極度緊張下では情動抑制が生存機能になり、浄化と睡眠で回復が起きるOS",
+    "formula": "大量殺戮と汚染の後では、洗浄・硫黄・火・更衣・寝床が導入され、その後に睡眠が心身回復の主経路になる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-10",
+    "title": "長期喪失後は歓喜より先に疑いと検証へ入るOS",
+    "formula": "帰還を望み続けた対象が現れても、喪失が長期化していると主体は喜びより先に確認・試験へ向かう」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "医療",
+    "obs_id": "C-11",
+    "title": "高負荷後の語り直しが鎮静化機能を持つOS",
+    "formula": "危機が一段落すると、主体は全遍歴を一気に語り、共有された物語化によって苦痛の負荷を下げる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "異邦人保護は家内私的施しから公的制度へ拡張されるOS",
+    "formula": "見知らぬ来訪者が受け入れられるとき、歓待は家内的な施しに留まらず、集会・船団・贈与へ拡張されて制度化される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "共同体は競技と芸能で自文化の秩序を公開展示するOS",
+    "formula": "客を遇するとき、共同体は身体能力・航海技術・舞踊・歌によって自らの秩序の優位を展示する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "客人地位の毀損は贈与と謝罪で再調整されるOS",
+    "formula": "共同体成員が客を侮辱したとき、剣・衣服・金・公式謝罪によって関係が修復される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "歓待は役割分化によって大量処理可能な社会機構になるOS",
+    "formula": "王・王妃・侍女・漕ぎ手・執事・吟遊詩人・競技管理者が分業するとき、歓待は個人徳でなく社会機構として機能する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "異邦人の統合は内在化（婚姻）と外部化（護送）の二系統で処理されるOS",
+    "formula": "優れた客が現れるとき、共同体は婿入りによる内在化と護送による外部化の両案を同時に保持する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "主不在時に家産が寄食ネットワークへ転化するOS",
+    "formula": "正統な家長が不在になると、婚姻競争を名目に外部有力者が家の資源を持続的に収奪する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "もてなしの質が家と共同体の正統性を判定する制度的基準になるOS",
+    "formula": "客への扱い方が、その家と共同体の正統性を測る試金石になる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "下位成員が秩序維持の最後の担い手になるOS",
+    "formula": "上層が腐敗したとき、家を支えるのは豚飼い・牛飼い・老女中のような周縁労働者であり、彼らの忠誠は長期の給付と扱いの履歴から形成される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-9",
+    "title": "婚姻は感情でなく家産再配分をめぐる政治として機能するOS",
+    "formula": "妻の再婚は個人選択でなく、家の継承権・贈与・世論・島々の有力者連合を再編する政治的操作である」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-10",
+    "title": "家内支配は空間統制として実装されるOS",
+    "formula": "家の支配権が争われるとき、門・倉庫・女部屋・寝所・外庭へのアクセス権が誰にあるかが権力の実体になる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-11",
+    "title": "家内の秩序問題はただちに都市政治へ接続されるOS",
+    "formula": "家内での殺害が起こると、遺体処理・集会・弁論・報復連合が動き、問題は都市全体の秩序問題へ拡大する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "社会学",
+    "obs_id": "C-12",
+    "title": "女性の行為は家の境界管理に従属して評価されるOS",
+    "formula": "女中たちの性と忠誠は私的逸脱でなく家内秩序への背反として処断され、妻の慎重さは家の保全機能として評価される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "不確実性は全能的仮説で封じられるOS",
+    "formula": "論争的な空白があるとき、主体は大胆で一貫した総体仮説を立て、その内部整合性で不安を封じる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "喪失は完全告白より断片開示として管理されるOS",
+    "formula": "悲惨な過去を問われるとき、主体は出来事を語れても、名前と中心的自己は最後まで保留する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "名誉への傷が攻撃性を起動するOS",
+    "formula": "自己像を侮辱されるとき、抑えられていた攻撃性が競技的身体行為として一気に噴出する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "涙は歌・物語によって反復的に呼び戻されるOS",
+    "formula": "対象喪失と戦争記憶に触れるとき、主体は物語の聴取を通じて何度でも悲嘆を再演する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "良い他者には理想化と服従的感謝が向かうOS",
+    "formula": "保護する他者が現れるとき、主体は怒りを退け、恩人を賢明・善良・神に近い存在として位置づける」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "同一性を隠しつつ欲望の中心へ迂回的に接近するOS",
+    "formula": "主体は偽りの語りを用いながら、帰還した自己という欲望の核へ段階的に接近する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "怒りを遅延させて復讐時点まで保持するOS",
+    "formula": "耐えがたい侮辱に対して、主体は即時の攻撃衝動を抑圧し、勝算が整うまで保持する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "良い対象と悪い対象を家の内部で選別するOS",
+    "formula": "帰還主体は家の成員を、忠誠を保持した対象と汚染された対象へ二分して再配置する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-9",
+    "title": "反復試験によって確信を得るOS",
+    "formula": "主体は再会しても直ちに信じず、涙・記憶・傷・言葉・夢・予兆を何度も通して関係を確認する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-10",
+    "title": "求婚者の享楽反復が破局へ自動進行するOS",
+    "formula": "求婚者たちは飲食・嘲笑・性的侵犯の享楽を反復するほど、自らの死に接近する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-11",
+    "title": "欲望の充足は試験と遅延を経て実現されるOS",
+    "formula": "帰還と再会が実現しても、主体はすぐに享楽へ入らず、忠誠試験・殺害・浄化・認証を経てから結合に達する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-12",
+    "title": "認証は共有された秘密の場に回帰して完結するOS",
+    "formula": "夫婦関係が真に回復するのは、外見や言葉でなく、二人だけが知る寝台という秘密の核が呼び起こされたときである」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-13",
+    "title": "喪失対象への回帰は父系連鎖の修復を伴うOS",
+    "formula": "妻との再結合だけでは完結せず、父への再認と祖先的土地への再接続が行われてはじめて自己像が安定する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "精神分析",
+    "obs_id": "C-14",
+    "title": "防衛としての知的化が強いOS",
+    "formula": "混乱や反対可能性が立ち上がるとき、主体は図表・成立史・細部問題へ議論を移し、情動を知的作業へ変換する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "語りは匿名客から自己物語へ段階的に焦点化するOS",
+    "formula": "テキストは最初に外部視点で客を扱い、歌と質問を経て、最後に一人称の本格回想へ接続する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "宴会挿話が本篇起動のための遅延装置になるOS",
+    "formula": "帰還譚をすぐ始めず、歓待・競技・舞踊・挿話歌を挟むことで、告白の条件が熟するまで語りを遅らせる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "挿入歌は主筋の鏡像として働くOS",
+    "formula": "アレスとアフロディテの歌が入るとき、それは宴会の余興であると同時に、露見・拘束・解放という主筋の縮図になる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "認知遅延で緊張を保つ語りOS",
+    "formula": "帰還の真実は読者に先に示され、登場人物には段階的に遅らせて配布される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "反復場面を変奏して人物を選別する語りOS",
+    "formula": "客人への食事・侮辱・予言・誓い・贈与が繰り返され、その都度人物の位置が判定される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "物語が物の配置と受け渡しで転回するOS",
+    "formula": "弓・傷痕・衣服・杯・火・扉・寝床のような物質要素が叙事の転換点を担う」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "家内ドラマから殲滅劇へ急速に圧縮される語りOS",
+    "formula": "長い聞き取りと試験の連鎖のあと、競技が処刑装置へ反転して物語速度が急上昇する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "神的介入を可視と不可視に分配する語りOS",
+    "formula": "神は読者には構造原因として見え、人物には見える者と見えない者が分けられる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-9",
+    "title": "序文・前置きが読みのプロトコルを書き換える設計書になるOS",
+    "formula": "本文に入る前に、テキストは成立仮説・翻訳方針・版面設計・注の使い方を提示し、自身の読み方を先に規定する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-10",
+    "title": "再会を遅延させることで終局を多段化するOS",
+    "formula": "求婚者殺害で終わらず、妻との認知・夜の語り・父との認知・市民との対峙へと終局を何度も先送りする」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "文学分析",
+    "obs_id": "C-11",
+    "title": "人間的解決を神的停止で閉じるOS",
+    "formula": "家内秩序の回復ではなお不足し、最後は神の顕現と命令によってのみ共同体の戦いが停止する」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "帰還は神意の許可で次段階へ進むOS",
+    "formula": "主体がどれほど望んでも、帰還は神々が道を開くときにのみ次段階へ進む」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "苦難は超越的打撃として理解されるOS",
+    "formula": "船の破壊・仲間の死・漂流の長期化が起きるとき、それらは偶然でなく神の手が重く置かれた結果として語られる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "歓待儀礼は献酒と神名の呼びかけによって確証されるOS",
+    "formula": "人間社会が客を正しく遇するとき、その秩序は食事・贈与だけでなく献酒と神名の呼びかけによって確証される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "越境的傲慢には神罰の記憶が添えられるOS",
+    "formula": "人間や神が限度を越えて競争や侵犯を行うとき、アポロンの殺害やポセイドンの脅しのような罰の前例が秩序を支える」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "歌は真名告白へ至る準儀礼として機能するOS",
+    "formula": "神に愛された吟遊詩人の歌が苦難を再演するとき、主体は隠れていた名と旅路を共同体の前で明かす位置へ導かれる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "神意が帰還と報復を保証するOS",
+    "formula": "人間の計略が十分でも、最終執行は神の合図と加護によって正当化される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "もてなし違反が宗教的罪になるOS",
+    "formula": "客・乞食・嘆願者を虐げることは、単なる無作法でなくゼウスの秩序への違反として記録される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "予兆が行動決定の承認装置になるOS",
+    "formula": "雷鳴・鳥の飛行・くしゃみ・夢が、計画遂行の可否を判断する上位シグナルとして働く」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-9",
+    "title": "汚染された家は殺害後に犠牲的浄化で回復されるOS",
+    "formula": "食卓と寝所を侵した者たちを排除しただけでは足りず、硫黄と火による清めが入ってはじめて家は再び住まうに値する場となる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-10",
+    "title": "試練完了後にも残余の巡礼義務が残るOS",
+    "formula": "家へ帰り敵を倒えてもなお、主体には海神へ犠牲を捧げる遠い旅が命じられ、完全な安息は遅延される」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-11",
+    "title": "共同体平和は神の停止命令で確定するOS",
+    "formula": "人間どうしの復讐連鎖が続くとき、最後は神が声と雷で争いを止め、盟約を成立させる」"
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "distro": "宗教",
+    "obs_id": "C-12",
+    "title": "古典・権威対象の秩序は注釈作業によって回復されるOS",
+    "formula": "テキストの謎や混乱があるとき、救済は超越的顕現でなく、注・図・成立史仮説による解釈秩序の回復として起きる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "役割崩壊時は認知枠を上位原理へ接続し直すOS",
+    "formula": "近親・情動・役割衝突で行動停止するとき、主体は自力判断を停止し、より上位の秩序説明を受け取ることで再起動する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "行為は結果ではなく割当任務で安定化するOS",
+    "formula": "複数の利害が衝突するとき、結果計算を切り離し、自分に割り当てられた行為を遂行することで判断を確定する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "自己は単独行為者ではなく媒体として定義されるOS",
+    "formula": "自己が『自分がやる』と抱え込むと混乱が増し、『自分は大きな秩序の道具である』と置き換えると行為が可能になる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "感覚入力の制御が判断維持の前提になるOS",
+    "formula": "欲望・嫌悪・快不快に引かれると目的記憶が崩れ、感覚を再制御すると心は静まり判断が回復する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "反復訓練でしか安定しないOS",
+    "formula": "心が逸れるとき、一度の理解では足りず、反復的な習慣化と再拘束によってのみ平衡が成立する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "倫理衝突は全身性の急性反応として現れるOS",
+    "formula": "親族殺害と義務遂行が衝突するとき、震え、口渇、脱力、発熱感、失神感として身心が同時に破綻する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "回復は感情発散ではなく認知再編と行動枠の再設定で起きるOS",
+    "formula": "苦悩が極大化したとき、主体は身体反応の除去ではなく、死生観・自己観・任務観の再編によって機能を回復する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "慢性適応は平静化訓練によって形成されるOS",
+    "formula": "快苦・暑寒・勝敗を等価に扱う練習を続けると、情動反応の振幅が減り、持続的な実行能力が保たれる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "不調の原因は感覚刺激ではなく固着連鎖にあるOS",
+    "formula": "対象への注視が執着を生み、執着が欲望と怒りを増幅し、記憶と判断を損なって症状化する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "回復には極端な禁欲より中庸な生活設計が必要なOS",
+    "formula": "食事・睡眠・労働・休息が過不足に傾くと修復不能になり、適度な調整が心身統合の条件になる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "個人判断は役割秩序に従属するOS",
+    "formula": "私的情愛と公的役務が衝突するとき、社会秩序は個人感情より役割遂行を優先させる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "社会の持続は祭儀的交換に支えられるOS",
+    "formula": "人間が労働と供犠を返礼として差し出すとき、神々・自然・食物・生の循環が維持される」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "模範者の行為が集団規範を再生産するOS",
+    "formula": "上位者が行うことは下位者に模倣されるため、賢者や支配者は私的解脱より公共的実演を要求される」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "身分秩序は性質と任務の配分として正当化されるOS",
+    "formula": "社会は各人に固有の性質と仕事を割り当て、その固有任務の遂行を秩序維持の正当な形とする」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "逸脱の言語は宇宙論的堕落として記述されるOS",
+    "formula": "役割不履行や欲望追従が起きると、それは単なる失敗ではなく家系崩壊、混淆、地獄、再生産劣化として語られる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "対象喪失の予期が自我機能を崩すOS",
+    "formula": "愛着対象を自分の手で失う想像が立ち上がるとき、主体は行為能力を失い退行する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "防衛破綻後に理想的対象へ全面委譲するOS",
+    "formula": "自力判断が破綻するとき、主体は全知的で保護的な対象へ服従し、その言葉を内的法として取り込む」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "欲望は知覚から自己破壊へ連鎖するOS",
+    "formula": "対象への注視が欲望を、欲望が怒りを、怒りが錯乱を、錯乱が自己破壊を導く」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "自己愛は『私が為す』という錯覚に宿るOS",
+    "formula": "主体が自己を唯一の行為者とみなすとき、ナルシシズム的誤認が生じ、苦悩が増幅する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "恐怖と崇拝は同一対象へ収束するOS",
+    "formula": "理想化された対象が全能的・破壊的相貌を露出するとき、主体は愛着と恐怖を同時に経験し、再び穏やかな形象を求める」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "危機場面から教説体系へ拡張する対話OS",
+    "formula": "局所的な戦場の逡巡は、対話の反復によって宇宙論・倫理・実践論を含む総合体系へ展開される」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "問答反復で理解段階を刻むOS",
+    "formula": "主体が疑問を差し挟むたびに、テキストは同一命題を別の比喩・別の階層で再記述し、漸進的に納得を作る」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "列挙・分類・再命名で秩序を構築するOS",
+    "formula": "テキストは二分法、三分法、役割表、属性表を繰り返し用い、世界を記述することと世界を秩序化することを一致させる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "視点移動で権威を増幅するOS",
+    "formula": "アルジュナとクリシュナの直接対話に、サンジャヤと王の外枠が重なることで、個人経験が証言付きの公共記録へ変換される」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "顕現場面で形式自体が過剰化するOS",
+    "formula": "宇宙相の場面では反復、過剰列挙、感嘆、比喩の洪水によって、通常言語が耐えきれない対象を形式の膨張で記述する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "超越秩序への服従が倫理判断を上書きするOS",
+    "formula": "人間的な善悪判断が停止するとき、主体は超越的法へ帰依し、その命令によって行為を正当化する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "神は創造・維持・破壊を同時に担うOS",
+    "formula": "超越者は慈悲深い救済者であると同時に、時間として万物を呑み込む破壊者でもある」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "秩序回復は受動的救済ではなく帰依された行為で起きるOS",
+    "formula": "神への帰依は戦場放棄ではなく、神を想起しつつ定められた行為を遂行することで成就する」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "供犠は宇宙循環そのものを回すOS",
+    "formula": "供物、祈り、火、食物、労働、神々は同一の聖なる回路に置かれ、祭儀参加が世界維持の条件になる」"
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "救済は排他的帰依と包括的吸収を併せ持つOS",
+    "formula": "あらゆる信仰実践は最終的に神へ届くが、完全救済は単独の帰依と全面的委託においてのみ確定する」"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "上位者の過剰な庇護に入ると、短期的には保護されるが、中位集団からの敵意が集中するというOS構造を持つ",
+    "formula": "上位者の過剰な庇護に入ると、短期的には保護されるが、中位集団からの敵意が集中するというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "相手が応じないとき、主体は撤退せず、接近経路を増やして執着を深める",
+    "formula": "相手が応じないとき、主体は撤退せず、接近経路を増やして執着を深める"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "欲望が制度と衝突するとき、病気・方違え・穢れ・供養・儀礼を使って行動履歴を再記述する",
+    "formula": "欲望が制度と衝突するとき、病気・方違え・穢れ・供養・儀礼を使って行動履歴を再記述する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "失われた対象が回復不能なとき、似姿・記念物・子・別の女へと連想的に置換して持続する",
+    "formula": "失われた対象が回復不能なとき、似姿・記念物・子・別の女へと連想的に置換して持続する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "長期化できないと予感される関係ほど、主体は一夜の機会を過大評価して踏み込む",
+    "formula": "長期化できないと予感される関係ほど、主体は一夜の機会を過大評価して踏み込む"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "関係を急進させたいとき、主体は人目のない場所へ移し、隔離そのものを支配資源として使う",
+    "formula": "関係を急進させたいとき、主体は人目のない場所へ移し、隔離そのものを支配資源として使う"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "取り返しのつかない事態が起きたとき、主体は悲嘆と並行して痕跡管理と移送手順を組み立てる",
+    "formula": "取り返しのつかない事態が起きたとき、主体は悲嘆と並行して痕跡管理と移送手順を組み立てる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "高位者が感情で機能停止するとき、下位の実務者が搬送・秘匿・段取りを代行するというOS構造を持つ",
+    "formula": "高位者が感情で機能停止するとき、下位の実務者が搬送・秘匿・段取りを代行するというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "公的場面で優位を取るとき、主体は舞・詩・衣装・所作を用いて評価環境そのものを支配する",
+    "formula": "公的場面で優位を取るとき、主体は舞・詩・衣装・所作を用いて評価環境そのものを支配する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-10",
+    "title": "各相手との摩擦が増えるとき、主体はその場ごとの慰撫・訪問・言い訳で凌ぎ、根本整理は先送りするというOS構造を持つ",
+    "formula": "各相手との摩擦が増えるとき、主体はその場ごとの慰撫・訪問・言い訳で凌ぎ、根本整理は先送りするというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-11",
+    "title": "嫉妬や死が実害を生んだとき、主体は遊動的な接近をやめ、管理可能な一対象への集中へ切り替える",
+    "formula": "嫉妬や死が実害を生んだとき、主体は遊動的な接近をやめ、管理可能な一対象への集中へ切り替える"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "EK",
+    "obs_id": "C-12",
+    "title": "新しい関係を確定するとき、主体は周囲への正式説明より先に、寝所・贈答・儀礼物で事実を先に作る",
+    "formula": "新しい関係を確定するとき、主体は周囲への正式説明より先に、寝所・贈答・儀礼物で事実を先に作る"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "持続的な敵意と緊張にさらされると、主体は憂鬱・衰弱・臥床という形で崩れる",
+    "formula": "持続的な敵意と緊張にさらされると、主体は憂鬱・衰弱・臥床という形で崩れる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "対象を喪失したとき、泣き続ける・眠れない・食べられない・判断できないが連鎖し、胸塞ぎ・頭痛・発熱感・窒息感が即座に身体化する",
+    "formula": "対象を喪失したとき、泣き続ける・眠れない・食べられない・判断できないが連鎖し、胸塞ぎ・頭痛・発熱感・窒息感が即座に身体化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "身体危機や死の前後で、祈祷・読経・服喪・僧尼化が応答機構として起動し、回復よりも「悪化を儀礼で受け止める」仕組みが前景化する",
+    "formula": "身体危機や死の前後で、祈祷・読経・服喪・僧尼化が応答機構として起動し、回復よりも「悪化を儀礼で受け止める」仕組みが前景化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "接触が断続的で不確実なとき、主体は睡眠障害・思考反復・身体の火照りとして反応する",
+    "formula": "接触が断続的で不確実なとき、主体は睡眠障害・思考反復・身体の火照りとして反応する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "孤絶した空間で恐怖刺激が累積すると、震え・冷汗・失神・呼吸停止様の急変が起きる",
+    "formula": "孤絶した空間で恐怖刺激が累積すると、震え・冷汗・失神・呼吸停止様の急変が起きる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "致命的急変の前に、倦怠・上転した眼・悪夢傾向などの前駆的な不調が出るというOS構造を持つ",
+    "formula": "致命的急変の前に、倦怠・上転した眼・悪夢傾向などの前駆的な不調が出るというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "主対象が急変するとき、周囲の者も失神・硬直・号泣に陥り、介助機能が低下する",
+    "formula": "主対象が急変するとき、周囲の者も失神・硬直・号泣に陥り、介助機能が低下する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "説明困難な周産期危機が起きるとき、心身急変が「物の怪」と身体症状の両方で記録される",
+    "formula": "説明困難な周産期危機が起きるとき、心身急変が「物の怪」と身体症状の両方で記録される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-9",
+    "title": "長期の対人緊張に置かれるとき、不眠・脱力・解離様感覚・自己異化が進行する",
+    "formula": "長期の対人緊張に置かれるとき、不眠・脱力・解離様感覚・自己異化が進行する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "医療",
+    "obs_id": "C-10",
+    "title": "祈祷師・僧・占い・看護者が大量動員されても、進行する病態を止められないというOS構造を持つ",
+    "formula": "祈祷師・僧・占い・看護者が大量動員されても、進行する病態を止められないというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "寵愛が既存の序列を乱すとき、集団は陰湿な排除で均衡を回復しようとする",
+    "formula": "寵愛が既存の序列を乱すとき、集団は陰湿な排除で均衡を回復しようとする"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "後見の薄い女性は、好まれていても制度的にはきわめて脆弱であるというOS構造を持つ",
+    "formula": "後見の薄い女性は、好まれていても制度的にはきわめて脆弱であるというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "誰がどの廊を通り、どこに住み、誰の部屋へ行けるかが権力差を可視化する",
+    "formula": "誰がどの廊を通り、どこに住み、誰の部屋へ行けるかが権力差を可視化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "身分秩序があるほど、女性は家・継母家・仮住まいに配置され、男性はそこを横断して選別する",
+    "formula": "身分秩序があるほど、女性は家・継母家・仮住まいに配置され、男性はそこを横断して選別する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "逸脱が起きたとき、共同体は真相究明よりも秘匿・言い換え・汚染管理で秩序を保つ",
+    "formula": "逸脱が起きたとき、共同体は真相究明よりも秘匿・言い換え・汚染管理で秩序を保つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "制度に乗らない関係は、人の目と公的監視から外れた空間に退避して成立する",
+    "formula": "制度に乗らない関係は、人の目と公的監視から外れた空間に退避して成立する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "高位者との秘密関係で下位女性が死ぬとき、遺体は秘匿可能な場所へ送られ、悲嘆表出より情報遮断が優先される",
+    "formula": "高位者との秘密関係で下位女性が死ぬとき、遺体は秘匿可能な場所へ送られ、悲嘆表出より情報遮断が優先される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "高位者は決定権を持つが、実務は家司・従者・女房が担うというOS構造を持つ",
+    "formula": "高位者は決定権を持つが、実務は家司・従者・女房が担うというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-9",
+    "title": "祭礼や舞楽の場では、身体の美と芸能能力が政治的威信を押し上げる",
+    "formula": "祭礼や舞楽の場では、身体の美と芸能能力が政治的威信を押し上げる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-10",
+    "title": "高位女性間の敵対があるとき、衝突は牛車・従者・観覧位置の争奪として実務層に現れる",
+    "formula": "高位女性間の敵対があるとき、衝突は牛車・従者・観覧位置の争奪として実務層に現れる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-11",
+    "title": "娘の入内・斎宮任命・後継男子の誕生は、個人の情緒より政治配置を優先して処理されるというOS構造を持つ",
+    "formula": "娘の入内・斎宮任命・後継男子の誕生は、個人の情緒より政治配置を優先して処理されるというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "社会学",
+    "obs_id": "C-12",
+    "title": "正妻の死が起きると、女房集団・外戚・実家・養育先・次の配偶配置が一斉に再調整される",
+    "formula": "正妻の死が起きると、女房集団・外戚・実家・養育先・次の配偶配置が一斉に再調整される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "原対象を喪失したとき、主体は似姿を追い、同型の対象で欠如を埋めようとする",
+    "formula": "原対象を喪失したとき、主体は似姿を追い、同型の対象で欠如を埋めようとする"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "接近不能・不適切・高リスクな対象に向かうとき、欲望はむしろ強まり反復される",
+    "formula": "接近不能・不適切・高リスクな対象に向かうとき、欲望はむしろ強まり反復される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "相手に退かれると、主体は悲しみより先に「自分が拒まれた」傷として受け取り執着を増す",
+    "formula": "相手に退かれると、主体は悲しみより先に「自分が拒まれた」傷として受け取り執着を増す"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "本来の対象に届かないとき、主体は代替対象を抱え込み、その直後に空虚と罪責へ落ちる",
+    "formula": "本来の対象に届かないとき、主体は代替対象を抱え込み、その直後に空虚と罪責へ落ちる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "秘密の接触が最大化するとき、同時に崩壊・失神・死・穢れが立ち上がるというOS構造を持つ",
+    "formula": "秘密の接触が最大化するとき、同時に崩壊・失神・死・穢れが立ち上がるというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "脅威にさらされるとき、主体は笑い・命令・護衛の誇示によって恐怖を否認する",
+    "formula": "脅威にさらされるとき、主体は笑い・命令・護衛の誇示によって恐怖を否認する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "対象が幼く無力に見えるとき、主体はそれを全面的に庇護すべき存在として取り込み、教育・同化を通じて完全所有に近い関係を求める",
+    "formula": "対象が幼く無力に見えるとき、主体はそれを全面的に庇護すべき存在として取り込み、教育・同化を通じて完全所有に近い関係を求める"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "禁じられた享楽の直後に破局が起きるとき、主体はそれを嫉妬する女の幻姿や報復の像として経験する",
+    "formula": "禁じられた享楽の直後に破局が起きるとき、主体はそれを嫉妬する女の幻姿や報復の像として経験する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-9",
+    "title": "回復不能な対象を前にするとき、主体はその細部の美しさを強く凝視し、喪失対象を理想化する",
+    "formula": "回復不能な対象を前にするとき、主体はその細部の美しさを強く凝視し、喪失対象を理想化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-10",
+    "title": "意識では抑えたい敵意が極まるとき、主体は夢・生霊・自己異化として攻撃性を外部化するというOS構造を持つ",
+    "formula": "意識では抑えたい敵意が極まるとき、主体は夢・生霊・自己異化として攻撃性を外部化するというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "精神分析",
+    "obs_id": "C-11",
+    "title": "自らの多方向的欲望が破局を招いたと感じるとき、主体は関係の縮減と再配置へ向かう",
+    "formula": "自らの多方向的欲望が破局を招いたと感じるとき、主体は関係の縮減と再配置へ向かう"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "帝の宮廷史から源氏の夜の逸脱へと視野を狭めることで、制度の内面化を記述する",
+    "formula": "帝の宮廷史から源氏の夜の逸脱へと視野を狭めることで、制度の内面化を記述する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "垣間見・隙見・夢・手紙・扇・薄明かりが、欲望と隔たりを同時に記述する形式を持つ",
+    "formula": "垣間見・隙見・夢・手紙・扇・薄明かりが、欲望と隔たりを同時に記述する形式を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "理論化された女の類型は、具体的遭遇によってつねに逸脱し直される",
+    "formula": "理論化された女の類型は、具体的遭遇によってつねに逸脱し直される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "恋愛遊戯の軽さが、暗闇・無音・錯乱・死によって一挙に破局調へ切り替わる",
+    "formula": "恋愛遊戯の軽さが、暗闇・無音・錯乱・死によって一挙に破局調へ切り替わる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "共感的な内部接近と、皮肉・補注・脱線を併用して、OSを単線化せず多層記録する",
+    "formula": "共感的な内部接近と、皮肉・補注・脱線を併用して、OSを単線化せず多層記録する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "親密さが成立した直後に、語りは静けさ・暗闇・無音・突発的幻視を用いてジャンルを反転させる",
+    "formula": "親密さが成立した直後に、語りは静けさ・暗闇・無音・突発的幻視を用いてジャンルを反転させる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "荒れた庭・消える灯・風・鳥声・遠い鶏鳴が、人物の認識変化より先に破局を告げる",
+    "formula": "荒れた庭・消える灯・風・鳥声・遠い鶏鳴が、人物の認識変化より先に破局を告げる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "手拍子・呼び声・命令・慰撫の言葉がすぐには届かない形式を反復し、統制不能を可視化する",
+    "formula": "手拍子・呼び声・命令・慰撫の言葉がすぐには届かない形式を反復し、統制不能を可視化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-9",
+    "title": "華やかな公的場面の直後に密書・忍び歩き・寝所・夢の場面を置くことで、表と裏のリズムを作る",
+    "formula": "華やかな公的場面の直後に密書・忍び歩き・寝所・夢の場面を置くことで、表と裏のリズムを作る"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-10",
+    "title": "扇・袖・車・髪・香・花が、恋の印から屈辱・喪・婚姻へと意味を変えながら反復する",
+    "formula": "扇・袖・車・髪・香・花が、恋の印から屈辱・喪・婚姻へと意味を変えながら反復する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-11",
+    "title": "一撃の事件としてでなく、祈祷・回復期待・再悪化・葬送・喪中書簡の連鎖で破局を記述する",
+    "formula": "一撃の事件としてでなく、祈祷・回復期待・再悪化・葬送・喪中書簡の連鎖で破局を記述する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "文学分析",
+    "obs_id": "C-12",
+    "title": "喪の余韻を十分に引いた後、語りは次の対象の成長と寝所の変化へ接続し、新しい物語中心を立ち上げる",
+    "formula": "喪の余韻を十分に引いた後、語りは次の対象の成長と寝所の変化へ接続し、新しい物語中心を立ち上げる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "愛・出生・喪失・再会は、前世の縁や業として意味づけられるOS構造を持つ",
+    "formula": "愛・出生・喪失・再会は、前世の縁や業として意味づけられるOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "秩序を乱す愛着が強まるとき、共同体はそれを破局の前兆として読む",
+    "formula": "秩序を乱す愛着が強まるとき、共同体はそれを破局の前兆として読む"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "死が発生すると、穢れが人を宮中から隔離し、行動や面会のルールを再編する",
+    "formula": "死が発生すると、穢れが人を宮中から隔離し、行動や面会のルールを再編する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "回復不能な苦しみの前で、剃髪・念仏・供養・七七日・回向が人間関係の破綻を宇宙秩序へ接続する",
+    "formula": "回復不能な苦しみの前で、剃髪・念仏・供養・七七日・回向が人間関係の破綻を宇宙秩序へ接続する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "秘めた関係が臨界に達するとき、夢・物の怪・憑きが介入して逸脱を可視化する",
+    "formula": "秘めた関係が臨界に達するとき、夢・物の怪・憑きが介入して逸脱を可視化する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "秘密の恋が成就したとき、主体はその頂点で災厄を報いとして受け取るというOS構造を持つ",
+    "formula": "秘密の恋が成就したとき、主体はその頂点で災厄を報いとして受け取るというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "秩序違反が臨界に達するとき、超越的なものは視覚像・気配・鳥声・風として侵入する",
+    "formula": "秩序違反が臨界に達するとき、超越的なものは視覚像・気配・鳥声・風として侵入する"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "都の秩序が処理できない死や秘密は、山寺や尼の庵に運ばれて浄化される",
+    "formula": "都の秩序が処理できない死や秘密は、山寺や尼の庵に運ばれて浄化される"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-9",
+    "title": "制御不能な怨念が臨界に達するとき、魂が身体を離れて他者へ害を及ぼすというOS構造を持つ",
+    "formula": "制御不能な怨念が臨界に達するとき、魂が身体を離れて他者へ害を及ぼすというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-10",
+    "title": "妊娠・出産の危機に際して、祈祷・加持・読経・物の怪との対話が秩序回復の標準手順となる",
+    "formula": "妊娠・出産の危機に際して、祈祷・加持・読経・物の怪との対話が秩序回復の標準手順となる"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-11",
+    "title": "禊や祭の場では、神事の秩序の中で人間の嫉妬と争いが増幅されるというOS構造を持つ",
+    "formula": "禊や祭の場では、神事の秩序の中で人間の嫉妬と争いが増幅されるというOS構造を持つ"
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "distro": "宗教",
+    "obs_id": "C-12",
+    "title": "斎宮任命・元服後の公的奉仕・初夜後の祝い菓子など、関係の変化は儀礼物によって現実化される",
+    "formula": "斎宮任命・元服後の公的奉仕・初夜後の祝い菓子など、関係の変化は儀礼物によって現実化される"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "不適合個体は反復的に廃棄されるOS",
+    "formula": "創造物が秩序要求に応答できないとき、再試行と淘汰が起きる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "判断の要は力より見抜きにある",
+    "formula": "敵対環境に入るとき、相手の名・罠・配置を事前に看破すると生存率が上がる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "欠損や敗北は偽装・転換で処理される",
+    "formula": "直接勝てないとき、死・老い・弱さを演出して局面を反転させる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "生存は単独技能でなく継承知に依存する",
+    "formula": "祖先の失敗と媒介者の助言を受け継ぐとき、次世代は前世代の罠を回避できる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "移動と適応を通じて共同体の居場所が確定する",
+    "formula": "寒冷・飢餓・言語混乱の環境では、神を携えて移動し続けることが生存戦略になる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "身体損傷は可逆的に扱われるOS",
+    "formula": "身体が切断・焼却・粉砕されても、正しい媒介を通ると再構成が起きうる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "回復は個体内部でなく関係網の中で起きる",
+    "formula": "危機時には祖父母的存在、動物、神的命令が回復機構として作動する」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "負荷は変身と相転移で処理される",
+    "formula": "圧倒的脅威にさらされるとき、死・魚・老者・石などへの変換が適応反応として起きる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "生の維持には完全視力より調整された限界が必要",
+    "formula": "認知能力が過剰なとき、視野制限が恒常性維持のために導入される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "共同体形成は慢性ストレスへの集団適応として進む",
+    "formula": "寒冷・飢餓・不眠・移動負荷のなかで、火・儀礼・統率が慢性的適応の核になる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "正統性は秩序への奉仕能力で決まるOS",
+    "formula": "共同体や宇宙秩序に奉仕できない主体は、創造物であっても排除される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "社会秩序は評議と分配で組織される",
+    "formula": "重要な生成や処罰は単独決定でなく、神々の協議と役割分担によって実行される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "権力は試練装置を通じて行使される",
+    "formula": "支配者は遊戯・席次・家屋・課題を用いて他者を屈従させようとする」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "他集団との関係は服属化と貢納化へ向かう",
+    "formula": "対外戦で優位を得るとき、敵は殲滅対象ではなく tributory な集団へ再編される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "神話的祖先譜は後に王統譜へ接続される",
+    "formula": "共同体の起源記述は、最終的に系譜と王家の正統化装置へ移行する」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "過大自己は去勢されるOS",
+    "formula": "自己を太陽や月に等置する誇大性が立ち上がるとき、身体的剥奪と失墜が起きる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "喪失は反復によって処理される",
+    "formula": "父世代が死と敗北を経験するとき、子世代が同じ場へ降りて反復し、別の結末で回収する」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "対象はしばしば分裂して現れる",
+    "formula": "他者は助ける祖先・欺く支配者・媒介する動物へ分かれ、主体はそれらを使い分けて生き延びる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "欲動は直接充足より迂回充足を選ぶ",
+    "formula": "攻撃や支配の欲動は、遊戯、変身、奇術、代理行為を経て達成される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "生死境界は固定されず、反復的に横断される",
+    "formula": "死の場面が出るたびに、主体は死を演出しなおして支配を奪い返す」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "このテキストは段階的創造と修正版の連鎖で自己記述するOS構造を持つ",
+    "formula": "一度で完成せず、生成と失敗と再記述を重ねながら世界像が組み立てられる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "語りは神話要約から注釈と史譜へ移る",
+    "formula": "物語が進むと、英雄叙事は解説的散文と系譜列挙へ転調する」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "反復単位は対になった人物・試練・変換で組織される",
+    "formula": "父と子、上界と冥界、死と再生、四人の祖と四人の妻が並列配置される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "名づけは単なるラベルでなく構造説明として機能する",
+    "formula": "人物名・地名・神名の語義説明が入るたび、存在論的役割が補強される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "第四書でジャンルが神話から共同体記録へ変わる",
+    "formula": "英雄譚が終わると、叙述は共同体の政治的自己保存文書へ圧縮される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "超越秩序は創造の試行錯誤を通じて人間を整えるOS",
+    "formula": "被造物が神々への想起と奉仕を果たせないとき、破壊と再創造が起きる」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "聖なる秩序に対する誇大は必ず処罰される",
+    "formula": "自己を宇宙的中心に置く者が現れるとき、神的介入で光輝と身体が剥奪される」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "冥界下降は秩序回復の儀礼である",
+    "formula": "死の領域に降りて戻るとき、超越秩序は死の支配を再編し直す」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "共同体は神を授与されて初めて成員化される",
+    "formula": "移住する群れは固有神を受け取り、その神を運ぶことで共同体の輪郭を得る」"
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "太陽の出現は宇宙秩序の固定化を意味する",
+    "formula": "太陽が現れるとき、神・動物・都市の位置が定まり、聖史は安定相へ移る」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "破局の全面一般化",
+    "formula": "近親・愛着対象の裏切りを目撃したとき、個別事例は世界一般の規則へ拡張され、極端な予防行動が起きる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "劣位者は迂回的制御で局面を反転させる",
+    "formula": "力で勝てないとき、語り・知識・誓約・仕掛けを用いて上位者の判断を誘導するOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "助言は助言者自身に代償を負わせる",
+    "formula": "助言を受けると短期的負荷は軽減できるが、助言者自身が代償を背負うことが起きる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "記録量が危機での判断資源になる",
+    "formula": "書物・故事・詩句・来歴を大量に保持しているとき、主体は危機で即席の交渉資源を生成できる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "驚異への接触は行動規則を書き換える",
+    "formula": "通常の因果を超える出来事に遭遇すると、主体は既存判断を保留し、新たな取引規則に従う」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "危険な他者とは条件付き互恵で暫定接続する",
+    "formula": "全面信頼が不可能なとき、誓いを取りつけ、利益供与を条件に関係を暫定運用するOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "異常兆候は上位者の直接探索によって確認される",
+    "formula": "説明不能な現象が反復するとき、代理報告ではなく当人の直接探索によって構造が段階的に開く」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "技能提示が身分代替として機能する",
+    "formula": "人間として認知されないとき、筆記・詩作・遊戯の技能提示が通行権と包摂の代替として機能する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "危機後は生存を残余利益として再計算する",
+    "formula": "大損失のあと、生き残りが確保されると『眼を失っても命は残った』という再評価で次行動へ移る」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-10",
+    "title": "真相は言葉より物で回収される",
+    "formula": "人の証言が錯綜したとき、物証・身体の痕跡・料理の味・衣服のような具体物が系譜と真実を再接続する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-11",
+    "title": "処理不能な問題は連鎖的に渡される",
+    "formula": "処理不能な問題が出ると、このOSは抱え込まず、隣人・制度・次の語り手へと負荷を受け渡す構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-12",
+    "title": "語る能力が処刑を遅らせる生存資源になる",
+    "formula": "処刑や断罪が迫るとき、事情説明ではなくより強い物語を提出できる者が執行を遅らせる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-13",
+    "title": "一度罠を学習すると擬装反撃へ切り替える",
+    "formula": "欺罔で損傷を受けたとき、このOSは撤退で終わらず、外見を変えて同じ回路へ再侵入し逆襲する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-14",
+    "title": "財と庇護は急反転する",
+    "formula": "歓待と寵遇が長く続いても、保護者の死や権力交代ひとつで生活基盤が失われるOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "心的外傷は身体徴候として即時に可視化される",
+    "formula": "裏切りや脅威・衝撃に曝されたとき、蒼白・不眠・失神・震え・食欲低下・言語停止が起き、身体が物語の一次記録媒体になる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "回復は比較による相対化として起きる",
+    "formula": "自分より大きい同型の災厄を見たとき、苦痛の相対化によって一時的回復が起きる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "慢性的暴力は共同体全体に持続的損傷反応を生む",
+    "formula": "毎夜の処刑が継続すると、母親の嘆き・父親の逃散・都市の婚姻機能の崩壊が起きる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "語りが死の切迫下での情動調整機構として働く",
+    "formula": "死の切迫下では、連続する語りが恐怖・衝動を一晩単位で調整する回復機構として働く」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "身体は支配と回復の媒介として物質的に操作される",
+    "formula": "薬・毒・香・粉末・塩・軟膏が身体境界に介入するとき、生睡眠・治癒・殺害・止血が切り替わる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "慢性的苦痛は可逆でない身体変容として固定化される",
+    "formula": "長期の災厄や魔術的危機の後、身体は完全回復せず欠損・瘢痕・石化のような不可逆の痕として残る」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "喪失後の身体反応は長期化し統治機能を侵食する",
+    "formula": "愛着対象の死後、主体は長期臥床し、政治的主体より病者として再編される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "慢性適応は欠損込みの生存様式として成立する",
+    "formula": "手・足指・眼などを失っても、このOSは欠損を新たな生活習慣・食事規則・対人説明へ組み込み再編成する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-9",
+    "title": "介入者の技術が死の判定を覆す",
+    "formula": "死亡と見なされた身体でも、局所処置と異物除去によって生に戻る可能性が保持される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "支配者の私的外傷が制度へ直結する",
+    "formula": "君主の私的損傷が公的命令に変換されると、婚姻制度と家族再生産が国家単位で破壊される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "ワジール・側近は暴力の実務装置であると同時に暴力決定を加速させる",
+    "formula": "主権者の命令が反復されるとき、宰相は道徳判断ではなく執行責任を担う制度中間層として働き、しばしばその回路が暴力決定を加速させる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "語りは統治の代替インフラになる",
+    "formula": "正面の反乱が不能なとき、物語・故事・警句が意思決定を迂回的に修正する社会メカニズムを持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "異物は技能が制度価値に変換されると一時的に包摂され、被害が出ると排除へ反転する",
+    "formula": "本来は排除対象の存在も王権に奉仕できる能力が示されると宮廷秩序へ編入されるが、共同体への損害が生じた瞬間、恩顧はただちに追放命令へ変わる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "女性は排除対象であると同時に制度修復の担い手でもある",
+    "formula": "女性が集団的に処罰されるとき、同時に女性主体の知略が制度崩壊を止める回路として現れる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "異常現象は私的体験から公的調査案件へ制度的に拡張される",
+    "formula": "局所的な事故がワジール報告、王の臨席、証人同伴、遠征へと段階的に制度化される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "周縁の存在が中心権力へ富と謎を供給する交換構造を持つ",
+    "formula": "漁師・商人のような低位者は稀少物を宮廷へ供給し、その対価として急速な再分配を受ける」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "公的秩序の背後に隠れた反秩序ネットワークが作動する",
+    "formula": "王妃の夜間移動・秘密の通路・郊外の小屋は、公的秩序の背後に別の結合圏が作動していることを示す」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-9",
+    "title": "都市社会は役割連鎖で責任を再配分する",
+    "formula": "私的事件が尾行・医師・家主・市場・警吏・総督・王へと責任転送されることで制度事件へ拡大する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-10",
+    "title": "身分秩序は法執行の速度と重さを左右する",
+    "formula": "異邦人・商人・職人・奴隷・女性・官人は同じ事件にいても、疑われ方と救済され方が非対称である」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-11",
+    "title": "公権力は真実探索より秩序回復を優先する",
+    "formula": "処刑準備は迅速に進むが、判断は証拠の精査より自白と場の収束に依存するOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-12",
+    "title": "王権は異常事態を記録へ回収して秩序化する",
+    "formula": "混乱した事件も、王の面前で再構成され、記録命令と恩賞配分によって公的秩序へ編み戻される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "愛着対象の裏切りは女性全体への分裂投影に変わる",
+    "formula": "愛着対象の裏切りに遭うと、主体は個別対象を失い、女性一般を危険対象として分裂的に把握する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "反復強迫としての婚姻と殺害",
+    "formula": "耐えがたい場面を処理できないとき、主体は同型場面を毎夜反復し、能動的位置で再演する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "物語は破壊衝動を拘束する",
+    "formula": "破壊衝動が優位なとき、語りの中断可能性が快の延期を生み、殺害の即時満足を先延ばしにする」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "恩恵を受けた主体が救済者を迫害者へ分裂反転させる",
+    "formula": "依存を感じたとき、良い対象はたちまち危険な対象へ分裂し、抹消衝動が起きる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "欲望の対象は夜の秘密行動に移り、表の結合は空洞化する",
+    "formula": "表向き愛情が維持されていても、欲動の投資先が外部へ移ると、家庭内の親密性は麻酔された眠りに置換される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "喪失は身体破壊と哀訴の反復として固定される",
+    "formula": "裏切りや呪いを受けた主体は、完全な喪の完了へ進まず、石化した身体と呻吟の両方で損傷を反復する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "理想化された救済対象は即座に喪失対象へ転化する",
+    "formula": "主体を理解し回復させる良い対象が出現すると、その対象はただちに破壊の場へ引き込まれる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "欠損は自己同一性の核として反復固定される",
+    "formula": "片眼喪失・剃髪・身体切断は、外傷の徴ではなく自己物語を担う印として保持される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-9",
+    "title": "欲望は反復的に罠へ向かう",
+    "formula": "危険を経験した後でも、このOSでは欲望の場へ再度戻り、破壊者になる形で同じ回路を反復する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-10",
+    "title": "告白・自白は罪責の均衡取得装置として反復する",
+    "formula": "同型の告白と責任引受けが繰り返されることで、「自分は被害者である」と「自分が原因である」の両方が抱え込まれ均衡が保たれる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-11",
+    "title": "良い対象の再発見は断片的部分対象から始まる",
+    "formula": "失われた対象は、手紙・衣服・味・傷痕・顔の類似といった断片を通じて再統合される」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-12",
+    "title": "冗談・幻想ゲームへの同伴が全能的他者との共存戦略になる",
+    "formula": "不条理な他者の前では、現実検討を一時停止し、幻想ゲームへ同伴することで攻撃を回避し愛顧を得るOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "入れ子語りで自己延命するOS構造を持つ",
+    "formula": "一つの危機が語られると、その内部に別の判例譚が挿入され、処刑・終結が迫るたびに新たな語り手が別の逸話を差し出して語りの停止を回避する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "夜ごとの中断が統治単位かつサスペンス保存装置になる",
+    "formula": "夜明けごとに語りが切断されると、その断絶自体が次夜への接続装置として機能し、内部物語のサスペンスと外部の延命戦略を同時に支える」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "内部説話の原理が外側の行動選択を規定する",
+    "formula": "一つの危機を説くために内部説話が挿入され、その内部説話の原理が外側の行動選択を規定するOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "反復句が場面の真偽判定・状態転換の装置として働く",
+    "formula": "同一の問いと応答が繰り返されるとき、その現象は偶然でなく構造として定着し、詩句挿入が直前の事件を一般法則に圧縮する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "語りの焦点は段階的にズームして新たな語り手と世界設定を呼び出す",
+    "formula": "小さな不思議は検証のたびにスケールを拡大し、新たな語り手と世界設定を呼び出す連鎖を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "反復形式が悲劇・笑劇・奇跡劇の転調を生む",
+    "formula": "同じ誤認・責任転嫁・身代わりの型が、場面の編集により悲劇にも笑劇にも奇跡劇にも転調する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "変身連鎖は等価変換の連続として書かれる",
+    "formula": "姿が連続置換されるとき、固定的実体より変換能力が主題化される形式を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "物語内記録命令がテキストの自己意識を示す",
+    "formula": "王が『記録せよ』と命じることで、このOSは自分が単なる口承でなく公的アーカイブへ入る物語であることを示す」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-9",
+    "title": "編集原理として引用・詩句・警句が判断のヒンジになる",
+    "formula": "場面転換や説得の局面で詩句と警句が挿入され、語りの権威と記憶保持を支える」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "誓約と神名は行為を拘束する垂直軸になる",
+    "formula": "主体が誓いを立て神名を持ち出すとき、行為は私的欲望だけでなく超越的監視のもとに置かれ、誓約がある場合にのみ一時的な秩序回復が可能になる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "違反と報復は超越秩序による道徳審判として現れる",
+    "formula": "契約や秩序が破られると、殺害・処罰・報復の語りが秩序回復の形で作動し、恩を守れば生き、背けば滅ぶという報応構造で動く」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "超越への訴えは窮地での実効的技術である",
+    "formula": "人間的手段が尽きたとき、神への祈願が敵の転回や危機離脱の起点として働く」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "聖と俗は混在したまま運用される",
+    "formula": "性愛・残酷・笑いの場面でも神名や敬虔語彙が併置され、聖俗分離が徹底されないOS構造を持つ」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "禁忌破りは身体変容・奇異現象を通じて露出する",
+    "formula": "不義や契約違反があるとき、壁の裂け目・語る魚・石化した身体・身体切断のような異常が秩序破綻を可視化する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "超越秩序は救済と犠牲を同時に要求する",
+    "formula": "呪いを解いて秩序を回復するとき、その成功はしばしば担い手の自己消耗・焼尽を伴う」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "運命は責任判断を停止させず再配置する",
+    "formula": "出来事が神の定めと理解されても、共同体はその後に追放・埋葬・改宗などの秩序処理を実行する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "告白・系譜の開示が乱れた秩序を再聖化する",
+    "formula": "公開空間での自白・起源の開示・系譜の読み上げが、秩序再編の儀礼として機能する」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-9",
+    "title": "日常物が超越的配剤の徴に変わる",
+    "formula": "苹果・料理・書付・衣服・のどの骨のような俗物が、超越的配剤を可視化する徴となる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-10",
+    "title": "生命回復は信仰告白によって秩序への再組み込みとして完成する",
+    "formula": "死から戻った身体は、起立だけでなく信仰告白によって再び秩序の側へ組み込まれる」"
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-11",
+    "title": "物語化そのものが秩序回復の一部である",
+    "formula": "災厄を語りとして整えることが、無秩序な出来事を可視化された意味秩序へ戻す応答として働く」"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "死の可能性が明示されるとき、このOSでは撤退よりも名を立てる行動が選ばれる",
+    "formula": "死の可能性が明示されるとき、このOSでは撤退よりも名を立てる行動が選ばれる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "自分に拮抗する相手が現れるとき、このOSはまず衝突し、その後に協働へ接続する構造を持つ",
+    "formula": "自分に拮抗する相手が現れるとき、このOSはまず衝突し、その後に協働へ接続する構造を持つ"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "裸・獣的摂食・毛深さの状態にある主体は、衣服・飲食・油・労働・婚姻の導入によって文明化される",
+    "formula": "裸・獣的摂食・毛深さの状態にある主体は、衣服・飲食・油・労働・婚姻の導入によって文明化される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "高リスク行動に向かうとき、このOSは母・女・長老・既知の案内役から判断補助を受ける",
+    "formula": "高リスク行動に向かうとき、このOSは母・女・長老・既知の案内役から判断補助を受ける"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "危険な行路に入るとき、主体は祈願・浄水・献酒を先に配置して成功条件を整える",
+    "formula": "危険な行路に入るとき、主体は祈願・浄水・献酒を先に配置して成功条件を整える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "敵地へ進むとき、進路知識を持つ者が前に立ち、もう一方はその手に信託する",
+    "formula": "敵地へ進むとき、進路知識を持つ者が前に立ち、もう一方はその手に信託する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "決意の後に不安が出ると、近接した他者が「恐れるな、私を信じよ」という形で行動継続を支える",
+    "formula": "決意の後に不安が出ると、近接した他者が「恐れるな、私を信じよ」という形で行動継続を支える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "前進が可能になるとき、道は「平らにされるもの」として理解される",
+    "formula": "前進が可能になるとき、道は「平らにされるもの」として理解される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "死や致死的変化が意識化されるとき、このOSでは静止よりも治癒探索と移動が起きる",
+    "formula": "死や致死的変化が意識化されるとき、このOSでは静止よりも治癒探索と移動が起きる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "身体が社会化されるとき、洗浄・剃毛・塗油・被服・飲食訓練が回復的介入として働く",
+    "formula": "身体が社会化されるとき、洗浄・剃毛・塗油・被服・飲食訓練が回復的介入として働く"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "重要な転換点では、このOSは感情を抽象化せず、涙・顔の輝き・心の高揚として身体化して記録する",
+    "formula": "重要な転換点では、このOSは感情を抽象化せず、涙・顔の輝き・心の高揚として身体化して記録する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "危険な遠征に入るとき、このOSは食料準備・案内役選定・洗足・献水などの予防操作を伴う",
+    "formula": "危険な遠征に入るとき、このOSは食料準備・案内役選定・洗足・献水などの予防操作を伴う"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "危険行動の前に、水で洗う・井戸を掘る・清浄な水を確保することで心身の安定を作る",
+    "formula": "危険行動の前に、水で洗う・井戸を掘る・清浄な水を確保することで心身の安定を作る"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "恐れが想定されるとき、同行者の言語的保証が主体の行動継続を可能にする",
+    "formula": "恐れが想定されるとき、同行者の言語的保証が主体の行動継続を可能にする"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "強い目的志向があるとき、緊張は消えず、祈りと支援者の存在によってのみ維持可能になる",
+    "formula": "強い目的志向があるとき、緊張は消えず、祈りと支援者の存在によってのみ維持可能になる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "危険な企図が出るとき、このOSでは共同体はまず制止し、次に条件付きで支援へ移る",
+    "formula": "危険な企図が出るとき、このOSでは共同体はまず制止し、次に条件付きで支援へ移る"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "周縁的存在を共同体へ編入するとき、このOSは食習慣・衣服・牧羊・婚姻・労働の役割を与える",
+    "formula": "周縁的存在を共同体へ編入するとき、このOSは食習慣・衣服・牧羊・婚姻・労働の役割を与える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "英雄的王は突出した権能を持つが、母・長老・相棒・神託による補正を受ける構造を持つ",
+    "formula": "英雄的王は突出した権能を持つが、母・長老・相棒・神託による補正を受ける構造を持つ"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "共同体外から来た強力な他者は、戦って勝敗を経たのち内部秩序の戦力へ再編される",
+    "formula": "共同体外から来た強力な他者は、戦って勝敗を経たのち内部秩序の戦力へ再編される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "危険な共同事業では、祈る者・先導する者・支援する神が分化して配置される",
+    "formula": "危険な共同事業では、祈る者・先導する者・支援する神が分化して配置される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "異郷へ踏み込むとき、神名への献酒が行動の正統性を保証する",
+    "formula": "異郷へ踏み込むとき、神名への献酒が行動の正統性を保証する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "目的地の内部事情を知る者は、正式な主役でなくても実務上の主導権を持つ",
+    "formula": "目的地の内部事情を知る者は、正式な主役でなくても実務上の主導権を持つ"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "未知の道は個人の胆力で突破するのでなく、通行可能な路として社会的に加工される",
+    "formula": "未知の道は個人の胆力で突破するのでなく、通行可能な路として社会的に加工される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "主体に酷似した他者が現れるとき、このOSでは融合ではなく格闘が先行し、その後に対象安定が起きる",
+    "formula": "主体に酷似した他者が現れるとき、このOSでは融合ではなく格闘が先行し、その後に対象安定が起きる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "死の恐怖が前景化するとき、このOSは恐怖を消すのでなく、名を残す企図へ置き換える",
+    "formula": "死の恐怖が前景化するとき、このOSは恐怖を消すのでなく、名を残す企図へ置き換える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "獣性をもつ対象は完全に消去されず、文明化後も案内役・戦闘力として保持される",
+    "formula": "獣性をもつ対象は完全に消去されず、文明化後も案内役・戦闘力として保持される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "圧倒的な夢や脅威が出るとき、このOSは母的読解によってそれを関係形成の予告へ組み替える",
+    "formula": "圧倒的な夢や脅威が出るとき、このOSは母的読解によってそれを関係形成の予告へ組み替える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "恐るべき他者へ向かうとき、主体は父祖神的対象を呼び出して接近不安を支える",
+    "formula": "恐るべき他者へ向かうとき、主体は父祖神的対象を呼び出して接近不安を支える"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "主体が危険へ進むとき、分身的他者が「私を信じよ」と言って不安の保持を引き受ける",
+    "formula": "主体が危険へ進むとき、分身的他者が「私を信じよ」と言って不安の保持を引き受ける"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "心的障害物が高まると、それは山や道の凹凸として表象され、外部世界の整地として処理される",
+    "formula": "心的障害物が高まると、それは山や道の凹凸として表象され、外部世界の整地として処理される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "破壊的行為へ向かうとき、祈りと浄化が先行し、欲動はその後に進軍へ転化する",
+    "formula": "破壊的行為へ向かうとき、祈りと浄化が先行し、欲動はその後に進軍へ転化する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "このOSは出来事そのものより、どの断片からどう復元したかという編集過程を前景化して自己を記述する",
+    "formula": "このOSは出来事そのものより、どの断片からどう復元したかという編集過程を前景化して自己を記述する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "欠けた行や破損した板があるとき、このOSでは推定・比較・補綴が語りの推進力になる",
+    "formula": "欠けた行や破損した板があるとき、このOSでは推定・比較・補綴が語りの推進力になる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "同一エピソードが複数版で現れるとき、このOSは差異の列挙によって構造を見せる",
+    "formula": "同一エピソードが複数版で現れるとき、このOSは差異の列挙によって構造を見せる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "物語要約ののち、このOSは名称・語形・起源論へ重心を移し、テキストの由来そのものを主題化する",
+    "formula": "物語要約ののち、このOSは名称・語形・起源論へ重心を移し、テキストの由来そのものを主題化する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "主要行動の前に、祈願の反復が道・山・水・神名を順に配列して行為空間を構成する",
+    "formula": "主要行動の前に、祈願の反復が道・山・水・神名を順に配列して行為空間を構成する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "祝福の声からEnkiduの発話へ切り替わるとき、場面の主導権も移動する",
+    "formula": "祝福の声からEnkiduの発話へ切り替わるとき、場面の主導権も移動する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "行間が失われても、「進む」「先に立つ」「道を示す」という運動語が連続性を補う",
+    "formula": "行間が失われても、「進む」「先に立つ」「道を示す」という運動語が連続性を補う"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "祈願の累積の後、短い命令や応答が現れると、テキストは静的祝福から動的出立へ転相する",
+    "formula": "祈願の累積の後、短い命令や応答が現れると、テキストは静的祝福から動的出立へ転相する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "不死を求めるとき、このOSでは「神々が生を保持し、死を人間に課した」という超越秩序が呼び出される",
+    "formula": "不死を求めるとき、このOSでは「神々が生を保持し、死を人間に課した」という超越秩序が呼び出される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "高リスク行動に入るとき、このOSは夢解釈・神託・加護祈願によって行為の正当性を補強する",
+    "formula": "高リスク行動に入るとき、このOSは夢解釈・神託・加護祈願によって行為の正当性を補強する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "聖なる/危険な領域へ入るとき、このOSは洗足と水の奉献を通じて境界通過を儀礼化する",
+    "formula": "聖なる/危険な領域へ入るとき、このOSは洗足と水の奉献を通じて境界通過を儀礼化する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "超越秩序に抗えないとき、このOSは日常の歓び・家族・清潔・養育を正しい生の形式として提示する",
+    "formula": "超越秩序に抗えないとき、このOSは日常の歓び・家族・清潔・養育を正しい生の形式として提示する"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "敵地へ向かうとき、主体はShamashへの献酒とLugal-bandaへの呼びかけによって超越的許可を得る",
+    "formula": "敵地へ向かうとき、主体はShamashへの献酒とLugal-bandaへの呼びかけによって超越的許可を得る"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "道・山・川は単なる地形でなく、神が整え導く通路として扱われる",
+    "formula": "道・山・川は単なる地形でなく、神が整え導く通路として扱われる"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "戦いや侵入の前に、洗足・井戸掘り・清水・灌酒が行われることで人間行為が秩序内に戻される",
+    "formula": "戦いや侵入の前に、洗足・井戸掘り・清水・灌酒が行われることで人間行為が秩序内に戻される"
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "決意があっても、超越的同伴がなければ前進は確定しない",
+    "formula": "決意があっても、超越的同伴がなければ前進は確定しない"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-1",
+    "title": "閉塞・暗闇・増殖不能の状態が続くとき、このOSは根本的な分離を実行して生存空間を開く",
+    "formula": "閉塞・暗闇・増殖不能の状態が続くとき、このOSは根本的な分離を実行して生存空間を開く"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-2",
+    "title": "敵が強大または要害にあるとき、直接力比べをせず、出現時刻・姿勢・弱点・弱らせ条件を読み切ってから一撃を入れる",
+    "formula": "敵が強大または要害にあるとき、直接力比べをせず、出現時刻・姿勢・弱点・弱らせ条件を読み切ってから一撃を入れる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-3",
+    "title": "父母・兄弟の被害が起きるとき、その出来事は子の命名・旅立ち・復讐義務として保存され、探索・奇襲・遠征が次世代に起動する",
+    "formula": "父母・兄弟の被害が起きるとき、その出来事は子の命名・旅立ち・復讐義務として保存され、探索・奇襲・遠征が次世代に起動する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-4",
+    "title": "行為が見えない規則（森林霊・祭場・先着権）に抵触するとき、主体は力押しを続けず、羞恥を通って相手のルールを学び、以後その協力や新証拠作りへ切り替える",
+    "formula": "行為が見えない規則（森林霊・祭場・先着権）に抵触するとき、主体は力押しを続けず、羞恥を通って相手のルールを学び、以後その協力や新証拠作りへ切り替える"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-5",
+    "title": "海・地下・天界・敵地のような異界へ入るとき、このOSは変装・名の変更・呪文・潜伏・誤認誘導を組み合わせて境界を越える",
+    "formula": "海・地下・天界・敵地のような異界へ入るとき、このOSは変装・名の変更・呪文・潜伏・誤認誘導を組み合わせて境界を越える"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-6",
+    "title": "新しい土地に入るとき、足跡・食事・衣・睡眠などの即物的経験を地名化して環境を自分たちの判断地図へ変える",
+    "formula": "新しい土地に入るとき、足跡・食事・衣・睡眠などの即物的経験を地名化して環境を自分たちの判断地図へ変える"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-7",
+    "title": "戦いや移住が終わるとき、頭骨・骨・火・地名・標識・住居痕を押さえることで結果を固定する",
+    "formula": "戦いや移住が終わるとき、頭骨・骨・火・地名・標識・住居痕を押さえることで結果を固定する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-8",
+    "title": "消耗戦が続き集団の体力と人数が削られるとき、土地への固着より遠隔移動を優先して生存圏を再設定する",
+    "formula": "消耗戦が続き集団の体力と人数が削られるとき、土地への固着より遠隔移動を優先して生存圏を再設定する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "EK",
+    "obs_id": "C-9",
+    "title": "移植した資源が脆弱なとき、労働のリズム化と禁制化を同時に行って収量を安定させる",
+    "formula": "移植した資源が脆弱なとき、労働のリズム化と禁制化を同時に行って収量を安定させる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-1",
+    "title": "主体が海難・埋葬・暴行・溺死・戦死で半死半生になるとき、このOSは洗浄・保温・運搬・呪文・油による付き添い介抱で再起動を図る",
+    "formula": "主体が海難・埋葬・暴行・溺死・戦死で半死半生になるとき、このOSは洗浄・保温・運搬・呪文・油による付き添い介抱で再起動を図る"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-2",
+    "title": "近親の死や遺骨喪失が起きるとき、悲嘆は停滞せず、長距離移動・夜襲・登攀・航海・執拗な探索として持続的に身体化される",
+    "formula": "近親の死や遺骨喪失が起きるとき、悲嘆は停滞せず、長距離移動・夜襲・登攀・航海・執拗な探索として持続的に身体化される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-3",
+    "title": "怒り・屈辱・嫉妬・悲嘆が閾値を超えるとき、主体は呪詛・洪水・殺害・焼討ちとして即座に身体行動へ移る",
+    "formula": "怒り・屈辱・嫉妬・悲嘆が閾値を超えるとき、主体は呪詛・洪水・殺害・焼討ちとして即座に身体行動へ移る"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-4",
+    "title": "身体は固定した生物学的容器ではなく、骨・半死・蘇生・変身・擬死の中間状態を持つ可塑的変換媒体として扱われる",
+    "formula": "身体は固定した生物学的容器ではなく、骨・半死・蘇生・変身・擬死の中間状態を持つ可塑的変換媒体として扱われる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-5",
+    "title": "寒冷・疲弊・敗走・瀕死が起きるとき、火・温泉・呪文・禁食・共同介助によって身体と環境を同時に調整する",
+    "formula": "寒冷・疲弊・敗走・瀕死が起きるとき、火・温泉・呪文・禁食・共同介助によって身体と環境を同時に調整する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-6",
+    "title": "言語による呪詛・汚染が発生するとき、その帰結は死・衰弱・風雨災害・戦場での転倒や硬直として身体側に実体化する",
+    "formula": "言語による呪詛・汚染が発生するとき、その帰結は死・衰弱・風雨災害・戦場での転倒や硬直として身体側に実体化する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-7",
+    "title": "新しい土地で生活基盤を立て直すとき、集団作業を歌で同期させて負荷を処理する回復機構を持つ",
+    "formula": "新しい土地で生活基盤を立て直すとき、集団作業を歌で同期させて負荷を処理する回復機構を持つ"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "医療",
+    "obs_id": "C-8",
+    "title": "反復攻撃で集団の体力と人数が削られるとき、局所対応ではなく移住が唯一の慢性適応になる",
+    "formula": "反復攻撃で集団の体力と人数が削られるとき、局所対応ではなく移住が唯一の慢性適応になる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-1",
+    "title": "父の仇・姉妹の救出・母の悲嘆が発生するとき、誰が動くべきかは個人意思でなく血縁配置と婚姻関係によって決まる",
+    "formula": "父の仇・姉妹の救出・母の悲嘆が発生するとき、誰が動くべきかは個人意思でなく血縁配置と婚姻関係によって決まる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-2",
+    "title": "呪文・潮時・聖所・出入口・航路を知る者が、人数差を越えて主導権を握る",
+    "formula": "呪文・潮時・聖所・出入口・航路を知る者が、人数差を越えて主導権を握る"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-3",
+    "title": "犬の殺害・果樹盗み・子の食殺・呪詛・資源争いが起きるとき、個人間事件は即座に部族単位の報復連鎖へ拡大する",
+    "formula": "犬の殺害・果樹盗み・子の食殺・呪詛・資源争いが起きるとき、個人間事件は即座に部族単位の報復連鎖へ拡大する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-4",
+    "title": "土地や資源をめぐる争いでは、聖所・小屋・伐採痕・漁網痕・地名・先着証拠を示した者が所有を主張でき、所有は継続的主張の実践によって維持される",
+    "formula": "土地や資源をめぐる争いでは、聖所・小屋・伐採痕・漁網痕・地名・先着証拠を示した者が所有を主張でき、所有は継続的主張の実践によって維持される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-5",
+    "title": "妻・姉妹・娘は婚姻や奪取の対象である一方、情報伝達・和解破綻の通路・逃走補助・血縁再接続の節点として秩序を動かす",
+    "formula": "妻・姉妹・娘は婚姻や奪取の対象である一方、情報伝達・和解破綻の通路・逃走補助・血縁再接続の節点として秩序を動かす"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-6",
+    "title": "新天地では、地名・砦・家・倉・井戸の設定によって占有と秩序が社会的に固定される",
+    "formula": "新天地では、地名・砦・家・倉・井戸の設定によって占有と秩序が社会的に固定される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-7",
+    "title": "相互報復で人口が減少するとき、共同体は土地を捨てて新たな社会圏へ再編される",
+    "formula": "相互報復で人口が減少するとき、共同体は土地を捨てて新たな社会圏へ再編される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "社会学",
+    "obs_id": "C-8",
+    "title": "隠れた父子関係は、出生時の知識よりも戦闘での名乗りという公的宣言によって承認される",
+    "formula": "隠れた父子関係は、出生時の知識よりも戦闘での名乗りという公的宣言によって承認される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-1",
+    "title": "宇宙的分離が起きるとき、光と世界が生まれると同時に、兄弟間の報復と持続的敵対も生じる",
+    "formula": "宇宙的分離が起きるとき、光と世界が生まれると同時に、兄弟間の報復と持続的敵対も生じる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-2",
+    "title": "母・姉妹・妻・父の不在が生じるとき、主体は休息できず、異界まで追跡して対象を取り戻すまで反復を止めない",
+    "formula": "母・姉妹・妻・父の不在が生じるとき、主体は休息できず、異界まで追跡して対象を取り戻すまで反復を止めない"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-3",
+    "title": "笑われる・裏切られる・奪われるとき、主体は屈辱を保持せず、策略化された殺害や殲滅の形で返そうとする",
+    "formula": "笑われる・裏切られる・奪われるとき、主体は屈辱を保持せず、策略化された殺害や殲滅の形で返そうとする"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-4",
+    "title": "禁止された欲望や支配衝動が生じるとき、人や世界は犬・鳥・怪物・自然物へと変形され、関係が再編される",
+    "formula": "禁止された欲望や支配衝動が生じるとき、人や世界は犬・鳥・怪物・自然物へと変形され、関係が再編される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-5",
+    "title": "父が殺されるとき、その欠落は子の主体化契機となり、子は仇討ちによって自らの位置を確立する",
+    "formula": "父が殺されるとき、その欠落は子の主体化契機となり、子は仇討ちによって自らの位置を確立する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-6",
+    "title": "配分不均衡や軽視が続くとき、主体は盗食・偽装負傷・失踪・最後の戦功独占によって自己価値を回収しようとする",
+    "formula": "配分不均衡や軽視が続くとき、主体は盗食・偽装負傷・失踪・最後の戦功独占によって自己価値を回収しようとする"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-7",
+    "title": "共同体を支える者は保護対象となり、侵害者は交渉不能な抹殺対象へ急速に二分される",
+    "formula": "共同体を支える者は保護対象となり、侵害者は交渉不能な抹殺対象へ急速に二分される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "精神分析",
+    "obs_id": "C-8",
+    "title": "敵との破壊的反復が続くとき、主体は勝利の反復を断ち、自ら場を去ることで回路を切断する",
+    "formula": "敵との破壊的反復が続くとき、主体は勝利の反復を断ち、自ら場を去ることで回路を切断する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-1",
+    "title": "一つの事件が終わるとき、テキストは系譜接続によって次の主人公を立ち上げ、未了課題を別譚へ滑らかに移行させる",
+    "formula": "一つの事件が終わるとき、テキストは系譜接続によって次の主人公を立ち上げ、未了課題を別譚へ滑らかに移行させる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-2",
+    "title": "同じ問い・同じ呼びかけ・同じ呪文・同じ説明句を繰り返すことで、物語は出来事を宇宙秩序へ固定する",
+    "formula": "同じ問い・同じ呼びかけ・同じ呪文・同じ説明句を繰り返すことで、物語は出来事を宇宙秩序へ固定する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-3",
+    "title": "神話叙述の途中に意味説明・語源・儀礼用法・訳者的補足が挿入され、事件は同時に解説される",
+    "formula": "神話叙述の途中に意味説明・語源・儀礼用法・訳者的補足が挿入され、事件は同時に解説される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-4",
+    "title": "海へ・地下へ・天へ・敵地へという垂直・水平移動が各伝承の中核場面を形成する",
+    "formula": "海へ・地下へ・天へ・敵地へという垂直・水平移動が各伝承の中核場面を形成する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-5",
+    "title": "創世と探索から始まった語りは、後半で骨・遺体・潜入・焼討ち・仇討ちを中心とする復讐連鎖へ重心を移し、さらに移住・領有譚へ接続される",
+    "formula": "創世と探索から始まった語りは、後半で骨・遺体・潜入・焼討ち・仇討ちを中心とする復讐連鎖へ重心を移し、さらに移住・領有譚へ接続される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-6",
+    "title": "語りは感情説明を長く続けず、どこで待つか・何を持つか・どう唱えるか・どの証拠を出すかというプロトコル記述に集中する",
+    "formula": "語りは感情説明を長く続けず、どこで待つか・何を持つか・どう唱えるか・どの証拠を出すかというプロトコル記述に集中する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-7",
+    "title": "移動や事件が起きるとき、地名の由来・戦の名・道具名・所有痕の説明で出来事を地理へ固定する",
+    "formula": "移動や事件が起きるとき、地名の由来・戦の名・道具名・所有痕の説明で出来事を地理へ固定する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "文学分析",
+    "obs_id": "C-8",
+    "title": "前半は地名・建造物名・呪文名を付す台帳的編集原理で構成され、後半は侵害→報復→報復返し→減耗→出航という因果連鎖の戦闘譚へ移行する",
+    "formula": "前半は地名・建造物名・呪文名を付す台帳的編集原理で構成され、後半は侵害→報復→報復返し→減耗→出航という因果連鎖の戦闘譚へ移行する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-1",
+    "title": "宇宙秩序は無機的法則ではなく、神的親族の分離・怒り・報復によって成立するOS構造を持つ",
+    "formula": "宇宙秩序は無機的法則ではなく、神的親族の分離・怒り・報復によって成立するOS構造を持つ"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-2",
+    "title": "適切な祈り・呪言・祭式が行われるとき、天候・誕生・聖別・蘇生・不可視化・勝敗が変化する",
+    "formula": "適切な祈り・呪言・祭式が行われるとき、天候・誕生・聖別・蘇生・不可視化・勝敗が変化する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-3",
+    "title": "神木・聖所・祭具・禁食規則・呪文秩序に無断で触れるとき、このOSは羞恥・失敗・罰・戦争で応答する",
+    "formula": "神木・聖所・祭具・禁食規則・呪文秩序に無断で触れるとき、このOSは羞恥・失敗・罰・戦争で応答する"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-4",
+    "title": "世界は閉じた一層ではなく、祖先や神の住まう複数層からなり、特定の技法を持つ者だけが往還できる",
+    "formula": "世界は閉じた一層ではなく、祖先や神の住まう複数層からなり、特定の技法を持つ者だけが往還できる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-5",
+    "title": "侵害や乱れが起きるとき、秩序の回復は和解よりも敵の殺害・焼却・食殺・聖別によって達成される",
+    "formula": "侵害や乱れが起きるとき、秩序の回復は和解よりも敵の殺害・焼却・食殺・聖別によって達成される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-6",
+    "title": "遺骨や首級が奪われるとき、それらは単なる遺体ではなく祭儀効力・記憶・正統性を帯びた媒体として回収対象になる",
+    "formula": "遺骨や首級が奪われるとき、それらは単なる遺体ではなく祭儀効力・記憶・正統性を帯びた媒体として回収対象になる"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-7",
+    "title": "山の火・温泉・暴風雨・雷・海浪は自然背景ではなく、祈りに呼応して秩序執行を行う力として働く",
+    "formula": "山の火・温泉・暴風雨・雷・海浪は自然背景ではなく、祈りに呼応して秩序執行を行う力として働く"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-8",
+    "title": "新天地の作物が芽吹くとき、祈りと禁制で場を聖別しなければ繁殖は守られない",
+    "formula": "新天地の作物が芽吹くとき、祈りと禁制で場を聖別しなければ繁殖は守られない"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-9",
+    "title": "海を渡る大きな転換点では、神々を宥める犠牲が航海成立の条件として要求される",
+    "formula": "海を渡る大きな転換点では、神々を宥める犠牲が航海成立の条件として要求される"
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "distro": "宗教",
+    "obs_id": "C-10",
+    "title": "耕作・追跡・出航のいずれも、人間の技量だけでは完結せず、聖なる操作の介入を前提とするOS構造を持つ",
+    "formula": "耕作・追跡・出航のいずれも、人間の技量だけでは完結せず、聖なる操作の介入を前提とするOS構造を持つ"
+  }
+]

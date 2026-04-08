@@ -1,0 +1,142 @@
+[
+  {
+    "work_key": "confucius_analects",
+    "region": "china",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 5,
+      "医療": 4,
+      "社会学": 5,
+      "精神分析": 4,
+      "文学分析": 4,
+      "宗教": 4
+    },
+    "total_core": 26
+  },
+  {
+    "work_key": "dante_inferno",
+    "region": "europe",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 9,
+      "医療": 8,
+      "社会学": 8,
+      "精神分析": 8,
+      "文学分析": 8,
+      "宗教": 7
+    },
+    "total_core": 48
+  },
+  {
+    "work_key": "dostoevsky_crime_punishment",
+    "region": "europe",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 20,
+      "医療": 14,
+      "社会学": 16,
+      "精神分析": 21,
+      "文学分析": 17,
+      "宗教": 17
+    },
+    "total_core": 105
+  },
+  {
+    "work_key": "homer_odyssey",
+    "region": "europe",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 12,
+      "医療": 11,
+      "社会学": 12,
+      "精神分析": 14,
+      "文学分析": 11,
+      "宗教": 12
+    },
+    "total_core": 72
+  },
+  {
+    "work_key": "mahabharata_bhagavad_gita",
+    "region": "india",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 5,
+      "医療": 5,
+      "社会学": 5,
+      "精神分析": 5,
+      "文学分析": 5,
+      "宗教": 5
+    },
+    "total_core": 30
+  },
+  {
+    "work_key": "genji_monogatari",
+    "region": "japan",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 12,
+      "医療": 10,
+      "社会学": 12,
+      "精神分析": 11,
+      "文学分析": 12,
+      "宗教": 12
+    },
+    "total_core": 69
+  },
+  {
+    "work_key": "popol_vuh",
+    "region": "latin_america",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 5,
+      "医療": 5,
+      "社会学": 5,
+      "精神分析": 5,
+      "文学分析": 5,
+      "宗教": 5
+    },
+    "total_core": 30
+  },
+  {
+    "work_key": "arabian_nights",
+    "region": "middle_east",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 14,
+      "医療": 9,
+      "社会学": 12,
+      "精神分析": 12,
+      "文学分析": 9,
+      "宗教": 11
+    },
+    "total_core": 67
+  },
+  {
+    "work_key": "gilgamesh_epic",
+    "region": "middle_east",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 8,
+      "医療": 7,
+      "社会学": 8,
+      "精神分析": 8,
+      "文学分析": 8,
+      "宗教": 8
+    },
+    "total_core": 47
+  },
+  {
+    "work_key": "polynesian_mythology_grey",
+    "region": "oceania",
+    "date": "2026-04-08",
+    "core_count": {
+      "EK": 9,
+      "医療": 8,
+      "社会学": 8,
+      "精神分析": 8,
+      "文学分析": 8,
+      "宗教": 10
+    },
+    "total_core": 51
+  }
+]
